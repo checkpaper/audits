@@ -1,4 +1,4 @@
-"""Shared helpers: fetch a pinned arXiv PDF and look up text on a page."""
+"""Shared helpers: fetch a pinned PDF and look up text on a page."""
 import hashlib
 import pathlib
 import re
@@ -11,13 +11,17 @@ CACHE = pathlib.Path(__file__).resolve().parent / ".cache"
 
 
 def fetch(arxiv_id, version, sha256):
-    """Download arxiv_id+version once and check it is the exact file we audited."""
+    """Download an arXiv version once and check it is the exact file we audited."""
+    return fetch_url(f"https://arxiv.org/pdf/{arxiv_id}{version}", f"{arxiv_id}{version}.pdf", sha256)
+
+
+def fetch_url(url, name, sha256):
+    """Download url to .cache/name once and check it is the exact file we audited."""
     CACHE.mkdir(exist_ok=True)
-    path = CACHE / f"{arxiv_id}{version}.pdf"
+    path = CACHE / name
     if not path.exists():
-        url = f"https://arxiv.org/pdf/{arxiv_id}{version}"
         print(f"Downloading {url}")
-        req = urllib.request.Request(url, headers={"User-Agent": "checkpaper-audits"})
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (checkpaper-audits)"})
         path.write_bytes(urllib.request.urlopen(req, timeout=120).read())
     digest = hashlib.sha256(path.read_bytes()).hexdigest()
     if digest != sha256:
