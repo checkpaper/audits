@@ -28,7 +28,7 @@ The script downloads arXiv 2609.17488v1, checks its hash, reads all 14 rows of T
 
 ## Status
 
-Awaiting author response. Question posted on the Hugging Face paper page on 2026-11-10.
+Contacting the authors, started 2026-11-10.
 
 ## Author response
 

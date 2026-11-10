@@ -33,7 +33,7 @@ The script downloads arXiv 2609.19969v1, checks its hash, finds the quoted sente
 
 ## Status
 
-Awaiting author response. Question posted on the Hugging Face paper page on 2026-11-10.
+Contacting the authors, started 2026-11-10.
 
 ## Author response
 

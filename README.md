@@ -8,8 +8,8 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 
 | Paper | Finding | Status |
 | --- | --- | --- |
-| [DeepSeek-V4.1-Flash](2026/2609.19969-deepseek-v4.1-flash/) (arXiv:2609.19969) | World knowledge claim versus Table 1; 5% to 10% claim versus Figure 6 | Awaiting author response |
-| [LimiX-2](2026/2609.17488-limix-2/) (arXiv:2609.17488) | Table 7 PATHFINDER results imply 137 to 189 edges; the cited network has 195 | Awaiting author response |
+| [DeepSeek-V4.1-Flash](2026/2609.19969-deepseek-v4.1-flash/) (arXiv:2609.19969) | World knowledge claim versus Table 1; 5% to 10% claim versus Figure 6 | Contacting the authors |
+| [LimiX-2](2026/2609.17488-limix-2/) (arXiv:2609.17488) | Table 7 PATHFINDER results imply 137 to 189 edges; the cited network has 195 | Contacting the authors |
 
 ## How each audit works
 
