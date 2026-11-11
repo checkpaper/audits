@@ -16,7 +16,12 @@ def fetch(arxiv_id, version, sha256):
 
 
 def fetch_url(url, name, sha256):
-    """Download url to .cache/name once and check it is the exact file we audited."""
+    """Download a PDF once, check it is the exact file we audited, and open it."""
+    return fitz.open(download(url, name, sha256))
+
+
+def download(url, name, sha256):
+    """Download url to .cache/name once, check its hash, and return the path."""
     CACHE.mkdir(exist_ok=True)
     path = CACHE / name
     if not path.exists():
@@ -26,7 +31,7 @@ def fetch_url(url, name, sha256):
     digest = hashlib.sha256(path.read_bytes()).hexdigest()
     if digest != sha256:
         sys.exit(f"{path.name}: sha256 {digest} differs from the audited file {sha256}")
-    return fitz.open(path)
+    return path
 
 
 def page_text(doc, page):
