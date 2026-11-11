@@ -14,6 +14,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Sugar-rich foods and antibiotic microbiome disruption](2026/s41586-026-11077-3-sugar-antibiotics-microbiome/) (Nature 2026) | Fig. 4 title names E. faecalis, the data are E. faecium; Fig. 3a legend HR 0.72 versus 0.59 in Supplementary Table 4 | Contacting the authors |
 | [Axion 1.0](2026/2611.03233-axion-1.0/) (arXiv:2611.03233) | Headline BioMysteryBench 41.7% does not fit the 17-question grid of every other score | Not yet sent |
 | [Harness-S](2026/2611.04277-harness-s/) (arXiv:2611.04277) | Table 1 described as three-run means, but 149 of 150 cells are single-run values | Not yet sent |
+| [CoworkOS](2026/2611.03178-coworkos/) (arXiv:2611.03178) | Several OfficeQA Pro scores are not k/133 for the stated 133 questions | Not yet sent |
 
 ## How each audit works
 
