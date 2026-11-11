@@ -26,7 +26,7 @@ The script downloads the four files, checks their hashes, finds each quoted phra
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-10.
 
 ## Author response
 
