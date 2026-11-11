@@ -25,7 +25,7 @@ The script downloads arXiv 2611.03233v2, checks its hash, reads the BioMysteryBe
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-11. Asked in [bytedance/axion1_0#5](https://github.com/bytedance/axion1_0/issues/5).
 
 ## Author response
 
