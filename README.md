@@ -9,7 +9,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | Paper | Finding | Status |
 | --- | --- | --- |
 | [DeepSeek-V4.1-Flash](2026/2609.19969-deepseek-v4.1-flash/) (arXiv:2609.19969) | World knowledge claim versus Table 1; 5% to 10% claim versus Figure 6 | Contacting the authors |
-| [LimiX-2](2026/2609.17488-limix-2/) (arXiv:2609.17488) | Table 7 PATHFINDER results imply 137 to 189 edges; the cited network has 195 | Contacting the authors |
+| [LimiX-2](2026/2609.17488-limix-2/) (arXiv:2609.17488) | Table 7 PATHFINDER results imply 137 to 189 edges; the cited network has 195 | [Asked the authors](https://github.com/limix-ldm-ai/LimiX/issues/66) |
 | [MDMA-assisted therapy for severe PTSD](2026/s41591-021-01336-3-mdma-ptsd-phase-3/) (Nature Medicine 2021) | Within-group CIs centred on the negative of their estimates; SDS CI includes zero while P = 0.0116 | Contacting the authors |
 
 ## How each audit works

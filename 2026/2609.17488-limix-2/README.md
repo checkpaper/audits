@@ -28,7 +28,7 @@ The script downloads arXiv 2609.17488v1, checks its hash, reads all 14 rows of T
 
 ## Status
 
-Contacting the authors, started 2026-11-10.
+Contacting the authors, started 2026-11-10. Asked in [limix-ldm-ai/LimiX#66](https://github.com/limix-ldm-ai/LimiX/issues/66).
 
 ## Author response
 
