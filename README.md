@@ -14,11 +14,11 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Sugar-rich foods and antibiotic microbiome disruption](2026/s41586-026-11077-3-sugar-antibiotics-microbiome/) (Nature 2026) | Fig. 4 title names E. faecalis, the data are E. faecium; Fig. 3a legend HR 0.72 versus 0.59 in Supplementary Table 4 | Contacting the authors |
 | [Axion 1.0](2026/2611.03233-axion-1.0/) (arXiv:2611.03233) | Headline BioMysteryBench 41.7% does not fit the 17-question grid of every other score | [Asked the authors](https://github.com/bytedance/axion1_0/issues/5) |
 | [Harness-S](2026/2611.04277-harness-s/) (arXiv:2611.04277) | Table 1 described as three-run means, but 149 of 150 cells are single-run values | [Asked the authors](https://github.com/DeepExperience/Harness-S/issues/1) |
-| [CoworkOS](2026/2611.03178-coworkos/) (arXiv:2611.03178) | Several OfficeQA Pro scores are not k/133 for the stated 133 questions | Not yet sent |
+| [CoworkOS](2026/2611.03178-coworkos/) (arXiv:2611.03178) | Several OfficeQA Pro scores are not k/133 for the stated 133 questions | [Asked the authors](https://huggingface.co/papers/2611.03178) |
 | [WikiTrace](2026/2611.14320-wikitrace/) (arXiv:2611.14320) | Released results include an ACE baseline missing from Table 1 that beats WikiTrace on two suites | [Asked the authors](https://github.com/yukyeongleee/wikitrace/issues/2) |
-| [RoboScript (World In-Context Learning)](2026/2611.12885-roboscript/) (arXiv:2611.12885) | Rehearsal results 46.1%, 8.4 and 13.3 cannot occur with 11 tasks and 10 episodes per setting | Not yet sent |
-| [P^2-MOPD](2026/2611.03953-p2-mopd/) (arXiv:2611.03953) | Text says 1.7B IM-MOPD never merged the medical teacher; Table 12 shows it did in 2 of 3 seeds | Not yet sent |
-| [Sage-Taiyi](2026/2611.12762-sage-taiyi/) (arXiv:2611.12762) | Metamaterial reward 0.822 versus 0.852 from Eq. (4) and the reported transmissions | Not yet sent |
+| [RoboScript (World In-Context Learning)](2026/2611.12885-roboscript/) (arXiv:2611.12885) | Rehearsal results 46.1%, 8.4 and 13.3 cannot occur with 11 tasks and 10 episodes per setting | [Asked the authors](https://github.com/ArcheOne-AI/RoboScript/issues/1) |
+| [P^2-MOPD](2026/2611.03953-p2-mopd/) (arXiv:2611.03953) | Text says 1.7B IM-MOPD never merged the medical teacher; Table 12 shows it did in 2 of 3 seeds | [Asked the authors](https://github.com/SinuoWang/P2-MOPD/issues/1) |
+| [Sage-Taiyi](2026/2611.12762-sage-taiyi/) (arXiv:2611.12762) | Metamaterial reward 0.822 versus 0.852 from Eq. (4) and the reported transmissions | [Asked the authors](https://github.com/Alpha-Innovator/Sage-Taiyi/issues/1) |
 
 ## How each audit works
 

@@ -25,7 +25,7 @@ The script downloads arXiv 2611.03953v2, checks its hash, and finds the Section 
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [SinuoWang/P2-MOPD#1](https://github.com/SinuoWang/P2-MOPD/issues/1).
 
 ## Author response
 

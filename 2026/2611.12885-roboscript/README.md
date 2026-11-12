@@ -25,7 +25,7 @@ The script downloads arXiv 2611.12885v1, checks its hash, finds the quoted sente
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [ArcheOne-AI/RoboScript#1](https://github.com/ArcheOne-AI/RoboScript/issues/1).
 
 ## Author response
 

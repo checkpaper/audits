@@ -29,7 +29,7 @@ The script downloads arXiv 2611.03178v1, checks its hash, finds the OfficeQA Pro
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked on the [Hugging Face paper page](https://huggingface.co/papers/2611.03178); the GitHub repository accepts only bug and feature templates.
 
 ## Author response
 

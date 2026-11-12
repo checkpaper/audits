@@ -25,7 +25,7 @@ The script downloads arXiv 2611.12762v1, checks its hash, finds the quoted text,
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [Alpha-Innovator/Sage-Taiyi#1](https://github.com/Alpha-Innovator/Sage-Taiyi/issues/1).
 
 ## Author response
 
