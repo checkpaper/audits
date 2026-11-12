@@ -25,7 +25,7 @@ The script downloads arXiv 2611.03743v1, checks its hash, reads all 20 rows of T
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [the EvoMemState repository](https://github.com/XMUDeepLIT/EvoMemState/issues/2).
 
 ## Author response
 

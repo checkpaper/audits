@@ -25,7 +25,7 @@ The script downloads arXiv 2611.01560v2, checks its hash, finds the Section 5.1 
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [the uni-robot-agent repository](https://github.com/Open-RUA/uni-robot-agent/issues/39).
 
 ## Author response
 

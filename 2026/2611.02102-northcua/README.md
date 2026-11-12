@@ -25,7 +25,7 @@ The script downloads arXiv 2611.02102v3, checks its hash, finds the quoted rows,
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [the Hugging Face paper page](https://huggingface.co/papers/2611.02102); the GitHub repository does not accept blank issues.
 
 ## Author response
 

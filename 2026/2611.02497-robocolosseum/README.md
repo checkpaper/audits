@@ -25,7 +25,7 @@ The script downloads arXiv 2611.02497v1, checks its hash, finds the Section 4.2 
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [the RoboColosseum client repository](https://github.com/RoboColosseum/robocolosseum-client/issues/1).
 
 ## Author response
 

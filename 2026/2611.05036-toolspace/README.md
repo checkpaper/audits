@@ -25,7 +25,7 @@ The script downloads arXiv 2611.05036v1, checks its hash, and compares the Table
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [the ToolSpace repository](https://github.com/dongguanting/ToolSpace/issues/4).
 
 ## Author response
 
