@@ -26,7 +26,7 @@ The script downloads arXiv 2611.04277v1, checks its hash, reads all 150 cells of
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [DeepExperience/Harness-S#1](https://github.com/DeepExperience/Harness-S/issues/1).
 
 ## Author response
 
