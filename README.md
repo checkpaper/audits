@@ -19,6 +19,11 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [RoboScript (World In-Context Learning)](2026/2611.12885-roboscript/) (arXiv:2611.12885) | Rehearsal results 46.1%, 8.4 and 13.3 cannot occur with 11 tasks and 10 episodes per setting | [Confirmed by the authors](https://github.com/ArcheOne-AI/RoboScript/issues/1); fix in next arXiv version |
 | [P^2-MOPD](2026/2611.03953-p2-mopd/) (arXiv:2611.03953) | Text says 1.7B IM-MOPD never merged the medical teacher; Table 12 shows it did in 2 of 3 seeds | [Asked the authors](https://github.com/SinuoWang/P2-MOPD/issues/1) |
 | [Sage-Taiyi](2026/2611.12762-sage-taiyi/) (arXiv:2611.12762) | Metamaterial reward 0.822 versus 0.852 from Eq. (4) and the reported transmissions | [Asked the authors](https://github.com/Alpha-Innovator/Sage-Taiyi/issues/1) |
+| [EvoMemState](2026/2611.03743-evomemstate/) (arXiv:2611.03743) | One MemTrapBench Avg. in Table 1 (78.7) is not the mean of its four scenarios (81.75) | Not yet sent |
+| [RoboColosseum](2026/2611.02497-robocolosseum/) (arXiv:2611.02497) | Text gives a 58–77% score range and a 13% success ceiling; Figure 5 shows 58–70% and cells up to 25% | Not yet sent |
+| [NorthCUA](2026/2611.02102-northcua/) (arXiv:2611.02102) | Pro OSWorld 2.0 binary 27.3 after SFT is not k/108; all other NorthCUA binary scores are | Not yet sent |
+| [ToolSpace](2026/2611.05036-toolspace/) (arXiv:2611.05036) | Headline 38.2-point drop comes from a DeepSeek -1017 row that is not in Figure 1(d) | Not yet sent |
+| [uni-robot-agent](2026/2611.01560-uni-robot-agent/) (arXiv:2611.01560) | Section 5.1 gives Astra 98.6% depth retention from 42 episodes; Table 1 (252 episodes) gives 91.4% | Not yet sent |
 
 ## How each audit works
 
