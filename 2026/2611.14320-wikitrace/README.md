@@ -25,7 +25,7 @@ The script downloads arXiv 2611.14320v1 and the results file at a fixed commit, 
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [yukyeongleee/wikitrace#2](https://github.com/yukyeongleee/wikitrace/issues/2).
 
 ## Author response
 
