@@ -25,7 +25,7 @@ The script downloads arXiv 2610.40799v1, checks its hash, and finds the four quo
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-13. Asked in [the CaPtain repository](https://github.com/waltstephen/CaPtain/issues/1).
 
 ## Author response
 

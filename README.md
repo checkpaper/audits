@@ -32,7 +32,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Drex](2026/2611.07854-drex/) (arXiv:2611.07854) | Three K≥6 flip rates in Table 7 (14.1, 17.8, 13.0%) are not k/173 | [Asked the authors](https://github.com/nace-ai/drex-decision-models/issues/18) |
 | [CEPO](2026/2610.34722-cepo/) (arXiv:2610.34722) | Text says CEPO mitigates PE2's drop with more executors; Table S7 shows larger drops at |I| = 4 and 5 | [Asked the authors](https://github.com/mlvlab/CEPO/issues/2) |
 | [StreamDuo](2026/2611.01120-streamduo/) (arXiv:2611.01120) | Headline 9.9% leakage baseline is a different run from the same-settings Proact-VL run (5.8%) | [Asked the authors](https://github.com/ZixianGao/StreamDuo-code/issues/1) |
-| [CaPtain](2026/2610.40799-captain/) (arXiv:2610.40799) | Text says evaluation perturbations never appear in training; RL randomizes lighting, camera and materials | Not yet sent |
+| [CaPtain](2026/2610.40799-captain/) (arXiv:2610.40799) | Text says evaluation perturbations never appear in training; RL randomizes lighting, camera and materials | [Asked the authors](https://github.com/waltstephen/CaPtain/issues/1) |
 
 ## How each audit works
 
