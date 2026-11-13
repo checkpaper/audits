@@ -25,7 +25,7 @@ The script downloads arXiv 2611.12870v2, checks its hash, reads Tables 3 to 9, a
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-13. Asked in [the SWAM repository](https://github.com/shaaaaron/SWAM/issues/2).
 
 ## Author response
 

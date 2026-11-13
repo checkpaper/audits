@@ -25,7 +25,7 @@ The script downloads arXiv 2611.07854v2, checks its hash, finds the Table 7 rows
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-13. Asked in [the Drex repository](https://github.com/nace-ai/drex-decision-models/issues/18).
 
 ## Author response
 

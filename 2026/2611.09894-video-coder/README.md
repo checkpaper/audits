@@ -27,7 +27,7 @@ The script downloads arXiv 2611.09894v1, checks its hash, and finds each quoted 
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-13. Asked in [the Video-Coder repository](https://github.com/CYWang735/Video-Coder/issues/4).
 
 ## Author response
 

@@ -25,7 +25,7 @@ The script downloads arXiv 2610.34722v1, checks its hash, finds the Appendix B.2
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-13. Asked in [the CEPO repository](https://github.com/mlvlab/CEPO/issues/2).
 
 ## Author response
 
