@@ -25,7 +25,7 @@ The script downloads the arXiv 2611.02017v1 PDF and source, checks both hashes, 
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [the Switch-SWE repository](https://github.com/Miraclecsc/Switch-SWE/issues/2).
 
 ## Author response
 

@@ -24,7 +24,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [NorthCUA](2026/2611.02102-northcua/) (arXiv:2611.02102) | Pro OSWorld 2.0 binary 27.3 after SFT is not k/108; all other NorthCUA binary scores are | [Asked the authors](https://huggingface.co/papers/2611.02102) |
 | [ToolSpace](2026/2611.05036-toolspace/) (arXiv:2611.05036) | Headline 38.2-point drop comes from a DeepSeek -1017 row that is not in Figure 1(d) | [Asked the authors](https://github.com/dongguanting/ToolSpace/issues/4) |
 | [uni-robot-agent](2026/2611.01560-uni-robot-agent/) (arXiv:2611.01560) | Section 5.1 gives Astra 98.6% depth retention from 42 episodes; Table 1 (252 episodes) gives 91.4% | [Asked the authors](https://github.com/Open-RUA/uni-robot-agent/issues/39) |
-| [Switch-SWE](2026/2611.02017-switch-swe/) (arXiv:2611.02017) | Section 4.3 workload ratios match a commented-out earlier Table 2, not the printed one | Not yet sent |
+| [Switch-SWE](2026/2611.02017-switch-swe/) (arXiv:2611.02017) | Section 4.3 workload ratios match a commented-out earlier Table 2, not the printed one | [Asked the authors](https://github.com/Miraclecsc/Switch-SWE/issues/2) |
 
 ## How each audit works
 
