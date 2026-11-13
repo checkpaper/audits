@@ -25,7 +25,7 @@ The script downloads arXiv 2611.01120v1, checks its hash, and finds the quoted r
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-13. Asked in [the StreamDuo repository](https://github.com/ZixianGao/StreamDuo-code/issues/1).
 
 ## Author response
 

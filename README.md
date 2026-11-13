@@ -31,7 +31,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [SWAM](2026/2611.12870-swam/) (arXiv:2611.12870) | Table 4 54.76 is not k/1250; the other 115 ablation values are | [Asked the authors](https://github.com/shaaaaron/SWAM/issues/2) |
 | [Drex](2026/2611.07854-drex/) (arXiv:2611.07854) | Three K≥6 flip rates in Table 7 (14.1, 17.8, 13.0%) are not k/173 | [Asked the authors](https://github.com/nace-ai/drex-decision-models/issues/18) |
 | [CEPO](2026/2610.34722-cepo/) (arXiv:2610.34722) | Text says CEPO mitigates PE2's drop with more executors; Table S7 shows larger drops at |I| = 4 and 5 | [Asked the authors](https://github.com/mlvlab/CEPO/issues/2) |
-| [StreamDuo](2026/2611.01120-streamduo/) (arXiv:2611.01120) | Headline 9.9% leakage baseline is a different run from the same-settings Proact-VL run (5.8%) | Not yet sent |
+| [StreamDuo](2026/2611.01120-streamduo/) (arXiv:2611.01120) | Headline 9.9% leakage baseline is a different run from the same-settings Proact-VL run (5.8%) | [Asked the authors](https://github.com/ZixianGao/StreamDuo-code/issues/1) |
 
 ## How each audit works
 
