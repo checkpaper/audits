@@ -35,3 +35,5 @@ Resolved. The authors explained on 2026-11-13: following the CausalChamber pipel
 2026-11-13, limix-ldm (repository collaborator), in [the issue](https://github.com/limix-ldm-ai/LimiX/issues/66):
 
 > Thanks for your questions. We follow their evaluation pipeline in CausalChamber (Gamella et al., 2025) and remove variables that are constant in the dataset, along with their incident edges. This choice is reasonable because relationships involving a constant variable cannot be inferred from the data. Specifically, the F72 variable in PATHFINDER keeps 'Present' in the data split we used. Therefore, we remove this variable and all edges incident to it. The number of edges incident to F72 is 7, so the number of remaining edges is 188. This is consistent with the derived edge-count interval (137–189).
+
+Follow-up the same day: the authors agreed that noting the removal of constant variables would make the evaluation easier to reproduce, and said they will consider adding it to the paper or the evaluation code.
