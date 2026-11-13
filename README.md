@@ -41,7 +41,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [SparseRead](2026/2608.22237-sparseread/) (arXiv:2608.22237) | NanoBot rows of Table 1 match none of the 30 Figure 6 settings | [Asked the authors](https://github.com/Liuzedooong/SparseReading/issues/1) |
 | [LowRAM](2026/2611.07025-lowram/) (arXiv:2611.07025) | LowRAM-EQ rows of Table 3 come from a lower-compression setting of Table 10 than every other row | [Asked the authors](https://github.com/lowram-model/lowram/issues/2) |
 | [Caper](2026/2610.40753-caper/) (arXiv:2610.40753) | SABER rates described as over 682 tasks fit 580; file-system destruction fits 47 of 84 | [Asked the authors](https://github.com/wudaoz/Caper/issues/2) |
-| [ProTEUS](2026/2611.13348-proteus/) (arXiv:2611.13348) | Abstract claims >10-fold activity in both campaigns; ALDH reaches 6.85-fold (7.90 normalized) | [Asked the authors](https://github.com/yikunpku/ProTEUS/issues/1) |
+| [ProTEUS](2026/2611.13348-proteus/) (arXiv:2611.13348) | Abstract claims >10-fold activity in both campaigns; ALDH reaches 6.85-fold (7.90 normalized) | [Closed by the authors](https://github.com/yikunpku/ProTEUS/issues/1) as completed, no comment |
 
 ## How each audit works
 

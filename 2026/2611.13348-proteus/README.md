@@ -26,7 +26,7 @@ The script downloads arXiv 2611.13348v1, checks its hash, and finds each quoted 
 
 ## Status
 
-Contacting the authors, started 2026-11-14. Asked in [the ProTEUS repository](https://github.com/yikunpku/ProTEUS/issues/1).
+Closed by the authors as completed on 2026-11-14, without a comment. Asked in [the ProTEUS repository](https://github.com/yikunpku/ProTEUS/issues/1).
 
 ## Author response
 
