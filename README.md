@@ -26,6 +26,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [uni-robot-agent](2026/2611.01560-uni-robot-agent/) (arXiv:2611.01560) | Section 5.1 gives Astra 98.6% depth retention from 42 episodes; Table 1 (252 episodes) gives 91.4% | [Asked the authors](https://github.com/Open-RUA/uni-robot-agent/issues/39) |
 | [Switch-SWE](2026/2611.02017-switch-swe/) (arXiv:2611.02017) | Section 4.3 workload ratios match a commented-out earlier Table 2, not the printed one | [Asked the authors](https://github.com/Miraclecsc/Switch-SWE/issues/2) |
 | [Hybrid Computer Use](2026/2610.41432-hybrid-computer-use/) (arXiv:2610.41432) | Same OSWorld 1.0 runs cost $2.52/$5.65 in Table 2 and $0.504/$0.983 in Table 4 | [Asked the authors](https://github.com/microsoft/Hybrid-Computer-Use/issues/3) |
+| [InfraRSI](2026/2611.11558-infrarsi/) (arXiv:2611.11558) | Text gives 1.55× first trial and 1.73× final on Qwen3.5-9B; Table 5 conditions give 1.22–1.24× and 1.70–1.82× | Not yet sent |
 
 ## How each audit works
 
