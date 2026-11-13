@@ -27,6 +27,10 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Switch-SWE](2026/2611.02017-switch-swe/) (arXiv:2611.02017) | Section 4.3 workload ratios match a commented-out earlier Table 2, not the printed one | [Asked the authors](https://github.com/Miraclecsc/Switch-SWE/issues/2) |
 | [Hybrid Computer Use](2026/2610.41432-hybrid-computer-use/) (arXiv:2610.41432) | Same OSWorld 1.0 runs cost $2.52/$5.65 in Table 2 and $0.504/$0.983 in Table 4 | [Asked the authors](https://github.com/microsoft/Hybrid-Computer-Use/issues/3) |
 | [InfraRSI](2026/2611.11558-infrarsi/) (arXiv:2611.11558) | Text gives 1.55× first trial and 1.73× final on Qwen3.5-9B; Table 5 conditions give 1.22–1.24× and 1.70–1.82× | [Asked the authors](https://github.com/TokenRhythm/InfraRSI/issues/1) |
+| [Video-Coder](2026/2611.09894-video-coder/) (arXiv:2611.09894) | OmniWeaving gain 0.48 to 0.51 called 16.28 points; two identical Table 1 rows; 6k/2k vs 10k/4k data | Not yet sent |
+| [SWAM](2026/2611.12870-swam/) (arXiv:2611.12870) | Table 4 54.76 is not k/1250; the other 115 ablation values are | Not yet sent |
+| [Drex](2026/2611.07854-drex/) (arXiv:2611.07854) | Three K≥6 flip rates in Table 7 (14.1, 17.8, 13.0%) are not k/173 | Not yet sent |
+| [CEPO](2026/2610.34722-cepo/) (arXiv:2610.34722) | Text says CEPO mitigates PE2's drop with more executors; Table S7 shows larger drops at |I| = 4 and 5 | Not yet sent |
 
 ## How each audit works
 
