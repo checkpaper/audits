@@ -9,7 +9,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | Paper | Finding | Status |
 | --- | --- | --- |
 | [DeepSeek-V4.1-Flash](2026/2609.19969-deepseek-v4.1-flash/) (arXiv:2609.19969) | World knowledge claim versus Table 1; 5% to 10% claim versus Figure 6 | [Asked the authors](https://huggingface.co/papers/2609.19969) |
-| [LimiX-2](2026/2609.17488-limix-2/) (arXiv:2609.17488) | Table 7 PATHFINDER results imply 137 to 189 edges; the cited network has 195 | [Asked the authors](https://github.com/limix-ldm-ai/LimiX/issues/66) |
+| [LimiX-2](2026/2609.17488-limix-2/) (arXiv:2609.17488) | Table 7 PATHFINDER results imply 137 to 189 edges; the cited network has 195 | [Explained by the authors](https://github.com/limix-ldm-ai/LimiX/issues/66): constant variable F72 and its 7 edges removed, 188 edges |
 | [MDMA-assisted therapy for severe PTSD](2026/s41591-021-01336-3-mdma-ptsd-phase-3/) (Nature Medicine 2021) | Within-group CIs centred on the negative of their estimates; SDS CI includes zero while P = 0.0116 | Contacting the authors |
 | [Sugar-rich foods and antibiotic microbiome disruption](2026/s41586-026-11077-3-sugar-antibiotics-microbiome/) (Nature 2026) | Fig. 4 title names E. faecalis, the data are E. faecium; Fig. 3a legend HR 0.72 versus 0.59 in Supplementary Table 4 | Contacting the authors |
 | [Axion 1.0](2026/2611.03233-axion-1.0/) (arXiv:2611.03233) | Headline BioMysteryBench 41.7% does not fit the 17-question grid of every other score | [Asked the authors](https://github.com/bytedance/axion1_0/issues/5) |

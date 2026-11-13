@@ -28,8 +28,10 @@ The script downloads arXiv 2609.17488v1, checks its hash, reads all 14 rows of T
 
 ## Status
 
-Contacting the authors, started 2026-11-10. Asked in [limix-ldm-ai/LimiX#66](https://github.com/limix-ldm-ai/LimiX/issues/66).
+Resolved. The authors explained on 2026-11-13: following the CausalChamber pipeline, the constant variable F72 and its 7 edges were removed, leaving 188 edges, inside the 137 to 189 range derived here. Asked in [the LimiX repository](https://github.com/limix-ldm-ai/LimiX/issues/66).
 
 ## Author response
 
-None yet.
+2026-11-13, limix-ldm (repository collaborator), in [the issue](https://github.com/limix-ldm-ai/LimiX/issues/66):
+
+> Thanks for your questions. We follow their evaluation pipeline in CausalChamber (Gamella et al., 2025) and remove variables that are constant in the dataset, along with their incident edges. This choice is reasonable because relationships involving a constant variable cannot be inferred from the data. Specifically, the F72 variable in PATHFINDER keeps 'Present' in the data split we used. Therefore, we remove this variable and all edges incident to it. The number of edges incident to F72 is 7, so the number of remaining edges is 188. This is consistent with the derived edge-count interval (137–189).
