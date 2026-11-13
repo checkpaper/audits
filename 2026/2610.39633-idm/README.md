@@ -25,7 +25,7 @@ The script downloads arXiv 2610.39633v1 and arXiv 2604.12322v1, checks both hash
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-13. Asked in [the IDM repository](https://github.com/inclusionAI/IDM/issues/2).
 
 ## Author response
 

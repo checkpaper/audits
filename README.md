@@ -35,7 +35,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [CaPtain](2026/2610.40799-captain/) (arXiv:2610.40799) | Text says evaluation perturbations never appear in training; RL randomizes lighting, camera and materials | [Asked the authors](https://github.com/waltstephen/CaPtain/issues/1) |
 | [WorkFactory](2026/2610.37161-workfactory/) (arXiv:2610.37161) | Abstract says larger models benefit more from more data; 30K→110K gains are 4B +168, 35B-A3B +82, 27B +38 | [Asked the authors](https://github.com/IQuestLab/WorkFactory/issues/2) |
 | [VibeGame](2026/2610.33106-vibegame/) (arXiv:2610.33106) | Text says Luna gains no visual advantage in P2G; Table 1 Functional Visuals is higher in P2G for all three harnesses | [Asked the authors](https://github.com/tettethu/VibeGame/issues/7) |
-| [Intrinsic Distribution Matching](2026/2610.39633-idm/) (arXiv:2610.39633) | APEX (Z-Image) numbers behind the headline comparison are not in the cited APEX paper | Not yet sent |
+| [Intrinsic Distribution Matching](2026/2610.39633-idm/) (arXiv:2610.39633) | APEX (Z-Image) numbers behind the headline comparison are not in the cited APEX paper | [Asked the authors](https://github.com/inclusionAI/IDM/issues/2) |
 
 ## How each audit works
 
