@@ -1,6 +1,6 @@
 # CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents (arXiv:2610.40799): consistency checks
 
-Section 4 says the evaluation perturbations never appear in training; Sections 3.3, Appendix A and Appendix D say RL randomizes lighting, camera pose and materials.
+Section 4 says the evaluation perturbations never appear in training; pages 7, 22 and 24 say RL randomizes lighting, camera pose and materials.
 
 ## Paper
 
@@ -12,7 +12,7 @@ Section 4 says the evaluation perturbations never appear in training; Sections 3
 
 ## Findings
 
-1. **Perturbations in training.** Section 4 (p. 8) says the model is trained only on the 40 original LIBERO tasks and evaluated on three perturbation suites "whose perturbations never appear in training". The training distribution (p. 7) samples "mostly wide-layout scenes with randomized lighting, camera pose and materials"; Appendix A (p. 22) lists 5,600 of the 7,360 RL starts as "wide-layout starts with light, camera and material perturbations"; Appendix D (p. 24) says the method randomizes lighting, camera pose and materials during RL. Light, camera and background are among the LIBERO-Plus perturbation dimensions.
+1. **Perturbations in training.** Section 4 (p. 8) says the model is trained only on the 40 original LIBERO tasks and evaluated on three perturbation suites "whose perturbations never appear in training". The training distribution (p. 7) samples "mostly wide-layout scenes with randomized lighting, camera pose and materials"; Appendix A (p. 22) lists 5,600 of the 7,360 RL starts as "wide-layout starts with light, camera and material perturbations"; p. 24 says the method randomizes lighting, camera pose and materials during RL. Light, camera and background are among the LIBERO-Plus perturbation dimensions.
 
 ## Reproduce
 
