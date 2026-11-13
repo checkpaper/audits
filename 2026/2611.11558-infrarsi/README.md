@@ -25,7 +25,7 @@ The script downloads arXiv 2611.11558v1, checks its hash, and finds the quoted s
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [the InfraRSI repository](https://github.com/TokenRhythm/InfraRSI/issues/1).
 
 ## Author response
 
