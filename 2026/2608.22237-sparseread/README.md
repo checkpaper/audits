@@ -27,7 +27,7 @@ The script downloads arXiv 2608.22237v2, checks its hash, finds the Figure 6 bar
 
 ## Status
 
-Contacting the authors, started 2026-11-14.
+Contacting the authors, started 2026-11-14. Asked in [the SparseReading repository](https://github.com/Liuzedooong/SparseReading/issues/1).
 
 ## Author response
 

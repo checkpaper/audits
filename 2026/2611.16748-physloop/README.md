@@ -27,7 +27,7 @@ The script downloads arXiv 2611.16748v1, checks its hash, finds the quoted passa
 
 ## Status
 
-Contacting the authors, started 2026-11-14.
+Contacting the authors, started 2026-11-14. Asked in [the PhysLoop repository](https://github.com/DAGroup-PKU/PhysLoop/issues/1).
 
 ## Author response
 

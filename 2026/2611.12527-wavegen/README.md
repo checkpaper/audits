@@ -27,7 +27,7 @@ The script downloads arXiv 2611.12527v1, checks its hash, finds the quoted passa
 
 ## Status
 
-Contacting the authors, started 2026-11-14.
+Contacting the authors, started 2026-11-14. Asked in [the WaveGen repository](https://github.com/sh-lee-prml/WaveGen/issues/2).
 
 ## Author response
 
