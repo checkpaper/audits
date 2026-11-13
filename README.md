@@ -25,6 +25,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [ToolSpace](2026/2611.05036-toolspace/) (arXiv:2611.05036) | Headline 38.2-point drop comes from a DeepSeek -1017 row that is not in Figure 1(d) | [Asked the authors](https://github.com/dongguanting/ToolSpace/issues/4) |
 | [uni-robot-agent](2026/2611.01560-uni-robot-agent/) (arXiv:2611.01560) | Section 5.1 gives Astra 98.6% depth retention from 42 episodes; Table 1 (252 episodes) gives 91.4% | [Asked the authors](https://github.com/Open-RUA/uni-robot-agent/issues/39) |
 | [Switch-SWE](2026/2611.02017-switch-swe/) (arXiv:2611.02017) | Section 4.3 workload ratios match a commented-out earlier Table 2, not the printed one | [Asked the authors](https://github.com/Miraclecsc/Switch-SWE/issues/2) |
+| [Hybrid Computer Use](2026/2610.41432-hybrid-computer-use/) (arXiv:2610.41432) | Same OSWorld 1.0 runs cost $2.52/$5.65 in Table 2 and $0.504/$0.983 in Table 4 | Not yet sent |
 
 ## How each audit works
 
