@@ -25,8 +25,10 @@ The script downloads arXiv 2611.03233v2, checks its hash, reads the BioMysteryBe
 
 ## Status
 
-Contacting the authors, started 2026-11-11. Asked in [bytedance/axion1_0#5](https://github.com/bytedance/axion1_0/issues/5).
+Resolved. The authors confirmed on 2026-11-13 that the BMB set has 17 questions and that 41.7% was a typo, corrected in the updated paper and project page. Asked in [the Axion repository](https://github.com/bytedance/axion1_0/issues/5).
 
 ## Author response
 
-None yet.
+2026-11-13, jyqhahah, in [the issue](https://github.com/bytedance/axion1_0/issues/5):
+
+> Thanks for pointing this out! The BMB evaluation set contains 17 questions. The previously reported 41.7% was a typo. We have corrected it in the updated paper and project page.

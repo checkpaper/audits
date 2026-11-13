@@ -25,8 +25,12 @@ The script downloads arXiv 2611.14320v1 and the results file at a fixed commit, 
 
 ## Status
 
-Contacting the authors, started 2026-11-12. Asked in [yukyeongleee/wikitrace#2](https://github.com/yukyeongleee/wikitrace/issues/2).
+Explained by the authors on 2026-11-13: ACE was left out on purpose because its memory build costs far more than WikiTrace's, and the ACE rows in the fixture were not meant to be released. The fixture has been replaced with a synthetic test. Asked in [the WikiTrace repository](https://github.com/yukyeongleee/wikitrace/issues/2).
 
 ## Author response
 
-None yet.
+2026-11-13, yukyeongleee, in [the issue](https://github.com/yukyeongleee/wikitrace/issues/2), with a figure of cumulative build cost:
+
+> We left ACE out of the comparison on purpose. Under our protocol its memory build is far more expensive than WikiTrace's and grows faster with the number of past runs: after 38 training runs its cumulative build cost is about 4.3x WikiTrace's, and each additional run costs it more than the last (figure below; cost as multiples of No Memory's test cost per sample, geometric mean over benchmarks). We therefore did not treat it as a like-for-like baseline for the setting the paper studies, where memory must be built cheaply from a fixed set of past runs.
+>
+> The ACE rows came along when we assembled a test fixture from our internal result files; they were not meant to be part of the release. The fixture only checked that the analysis code reproduces the paper's Gain/Regression numbers, and we have replaced it with a small synthetic test.
