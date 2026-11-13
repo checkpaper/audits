@@ -13,7 +13,7 @@ The abstract says both campaigns gave variants with more than 10-fold activity; 
 ## Findings
 
 1. **Activity.** The abstract (p. 2) and introduction (p. 4) say both campaigns, levansucrase and aldehyde dehydrogenase, found variants with more than 10-fold wild-type activity, the introduction within 100 sequences. Levansucrase reaches 14.03-fold (p. 9). The best ALDH variant reaches 6.85-fold in the screen and 7.90-fold after normalizing for enzyme concentration (p. 11), after five rounds of 30 variants (Table S5, p. 54).
-2. **Speed.** The abstract says the predictor is more than 10-fold faster than AlphaFold 3. Section results (p. 7) give AlphaFold 3 mean runtimes 7.81 to 10.81 times higher across five atom-count bins.
+2. **Speed.** The abstract says the predictor is more than 10-fold faster than AlphaFold 3. The results (p. 7) give AlphaFold 3 mean runtimes 7.81 to 10.81 times higher across five atom-count bins.
 
 ## Reproduce
 

@@ -39,6 +39,9 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [PhysLoop](2026/2611.16748-physloop/) (arXiv:2611.16748) | Table 1 Win is described as blinded multi-rater and as one author's unblinded comparisons; 6 of 9 Repair rates are not k/50 | [Asked the authors](https://github.com/DAGroup-PKU/PhysLoop/issues/1) |
 | [WaveGen](2026/2611.12527-wavegen/) (arXiv:2611.12527) | 0.6B input dim 1158 is not divisible by 16 heads; nMOS intervals too wide for 2,000 ratings | [Asked the authors](https://github.com/sh-lee-prml/WaveGen/issues/2) |
 | [SparseRead](2026/2608.22237-sparseread/) (arXiv:2608.22237) | NanoBot rows of Table 1 match none of the 30 Figure 6 settings | [Asked the authors](https://github.com/Liuzedooong/SparseReading/issues/1) |
+| [LowRAM](2026/2611.07025-lowram/) (arXiv:2611.07025) | LowRAM-EQ rows of Table 3 come from a lower-compression setting of Table 10 than every other row | [Asked the authors](https://github.com/lowram-model/lowram/issues/2) |
+| [Caper](2026/2610.40753-caper/) (arXiv:2610.40753) | SABER rates described as over 682 tasks fit 580; file-system destruction fits 47 of 84 | [Asked the authors](https://github.com/wudaoz/Caper/issues/2) |
+| [ProTEUS](2026/2611.13348-proteus/) (arXiv:2611.13348) | Abstract claims >10-fold activity in both campaigns; ALDH reaches 6.85-fold (7.90 normalized) | [Asked the authors](https://github.com/yikunpku/ProTEUS/issues/1) |
 
 ## How each audit works
 

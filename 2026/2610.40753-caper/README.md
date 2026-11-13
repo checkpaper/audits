@@ -26,7 +26,7 @@ The script downloads arXiv 2610.40753v1, checks its hash, finds the Table 1, Tab
 
 ## Status
 
-Contacting the authors, started 2026-11-14. Asked in [the Caper repository](https://github.com/wudaoz/Caper/issues/1).
+Contacting the authors, started 2026-11-14. Asked in [the Caper repository](https://github.com/wudaoz/Caper/issues/2).
 
 ## Author response
 
