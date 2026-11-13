@@ -25,7 +25,7 @@ The script downloads arXiv 2610.37161v3, checks its hash, finds the quoted numbe
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-13. Asked in [the WorkFactory repository](https://github.com/IQuestLab/WorkFactory/issues/2).
 
 ## Author response
 

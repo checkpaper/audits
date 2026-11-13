@@ -25,7 +25,7 @@ The script downloads arXiv 2610.33106v1, checks its hash, finds the Section 4.2 
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-13. Asked in [the VibeGame repository](https://github.com/tettethu/VibeGame/issues/7).
 
 ## Author response
 

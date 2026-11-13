@@ -33,8 +33,8 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [CEPO](2026/2610.34722-cepo/) (arXiv:2610.34722) | Text says CEPO mitigates PE2's drop with more executors; Table S7 shows larger drops at |I| = 4 and 5 | [Asked the authors](https://github.com/mlvlab/CEPO/issues/2) |
 | [StreamDuo](2026/2611.01120-streamduo/) (arXiv:2611.01120) | Headline 9.9% leakage baseline is a different run from the same-settings Proact-VL run (5.8%) | [Asked the authors](https://github.com/ZixianGao/StreamDuo-code/issues/1) |
 | [CaPtain](2026/2610.40799-captain/) (arXiv:2610.40799) | Text says evaluation perturbations never appear in training; RL randomizes lighting, camera and materials | [Asked the authors](https://github.com/waltstephen/CaPtain/issues/1) |
-| [WorkFactory](2026/2610.37161-workfactory/) (arXiv:2610.37161) | Abstract says larger models benefit more from more data; 30K→110K gains are 4B +168, 35B-A3B +82, 27B +38 | Not yet sent |
-| [VibeGame](2026/2610.33106-vibegame/) (arXiv:2610.33106) | Text says Luna gains no visual advantage in P2G; Table 1 Functional Visuals is higher in P2G for all three harnesses | Not yet sent |
+| [WorkFactory](2026/2610.37161-workfactory/) (arXiv:2610.37161) | Abstract says larger models benefit more from more data; 30K→110K gains are 4B +168, 35B-A3B +82, 27B +38 | [Asked the authors](https://github.com/IQuestLab/WorkFactory/issues/2) |
+| [VibeGame](2026/2610.33106-vibegame/) (arXiv:2610.33106) | Text says Luna gains no visual advantage in P2G; Table 1 Functional Visuals is higher in P2G for all three harnesses | [Asked the authors](https://github.com/tettethu/VibeGame/issues/7) |
 
 ## How each audit works
 
