@@ -25,7 +25,7 @@ The script downloads arXiv 2610.41432v1, checks its hash, finds the rows of Tabl
 
 ## Status
 
-Not yet sent to the authors.
+Contacting the authors, started 2026-11-12. Asked in [the Hybrid Computer Use repository](https://github.com/microsoft/Hybrid-Computer-Use/issues/3).
 
 ## Author response
 
