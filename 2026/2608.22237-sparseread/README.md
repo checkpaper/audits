@@ -27,8 +27,10 @@ The script downloads arXiv 2608.22237v2, checks its hash, finds the Figure 6 bar
 
 ## Status
 
-Contacting the authors, started 2026-11-14. Asked in [the SparseReading repository](https://github.com/Liuzedooong/SparseReading/issues/1).
+Explained. The authors said on 2026-11-14 that Table 1 aggregates five scenarios from the v1 evaluation, while Figure 6 was updated with the revised v2 suite, so the two are not directly comparable; they will make this clearer in the next revision. Asked in [the SparseReading repository](https://github.com/Liuzedooong/SparseReading/issues/1).
 
 ## Author response
 
-None yet.
+2026-11-14, Liuzedooong (repository owner), in [the issue](https://github.com/Liuzedooong/SparseReading/issues/1):
+
+> Thanks for the careful check! Table 1 aggregates results across five scenarios from our earlier evaluation (v1), including the native-fit scenario, where sparsity is low and compression is less effective. Figure 6 was updated with the revised evaluation suite in v2, so the two aren't directly comparable. We'll make this clearer in the next revision!
