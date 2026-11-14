@@ -46,6 +46,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Evolving Infra](2026/2611.12304-evolving-infra/) (arXiv:2611.12304) | CC with 126 agents from 6P3D: 13.2 s in Table C.3 versus 11.4 s in Figure 8a, with the initial split said to matter by at most 1.8% | [Asked the authors](https://github.com/mit-han-lab/EvolvingInfra/issues/19) |
 | [PrimaCons](2026/2610.38623-primacons/) (arXiv:2610.38623) | Axis III, JevK5-4B: the disagreement quadrants of Figure 5 sum to 29.19%, while Table 3 gives K = 26.69% | [Asked the authors](https://github.com/67L1/PrimaCons-CRPR/issues/2) |
 | [HeLM](2026/2611.02660-helm/) (arXiv:2611.02660) | Table 8: three HeLM strict-success values cannot come from 5 trials per variant | [Asked the authors](https://github.com/kimspacehuni/HeLM/issues/1) |
+| [MACR](2026/2610.35219-macr/) (arXiv:2610.35219) | MMStar: 4,150 tokens per sample in Table 1 versus 312 in Table 2 | [Asked the authors](https://github.com/67L1/MACR/issues) |
 
 ## How each audit works
 
