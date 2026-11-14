@@ -42,6 +42,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [LowRAM](2026/2611.07025-lowram/) (arXiv:2611.07025) | LowRAM-EQ rows of Table 3 come from a lower-compression setting of Table 10 than every other row | [Asked the authors](https://github.com/lowram-model/lowram/issues/2) |
 | [Caper](2026/2610.40753-caper/) (arXiv:2610.40753) | SABER rates described as over 682 tasks fit 580; file-system destruction fits 47 of 84 | [Asked the authors](https://github.com/wudaoz/Caper/issues/2) |
 | [ProTEUS](2026/2611.13348-proteus/) (arXiv:2611.13348) | Abstract claims >10-fold activity in both campaigns; ALDH reaches 6.85-fold (7.90 normalized) | [Closed by the authors](https://github.com/yikunpku/ProTEUS/issues/1) as completed, no comment |
+| [Terminal-bench math modeling](2026/2611.08237-terminal-bench-math/) (arXiv:2611.08237) | Headline board includes the tennis task the text excludes; MULTI-BO does not follow from Table 6; 0.06 pp gap called about 1.5 pp | [Asked the authors](https://github.com/wxj630/terminal-bench-math-modeling/issues/2) |
 
 ## How each audit works
 
