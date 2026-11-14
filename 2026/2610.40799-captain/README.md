@@ -25,8 +25,10 @@ The script downloads arXiv 2610.40799v1, checks its hash, and finds the four quo
 
 ## Status
 
-Contacting the authors, started 2026-11-13. Asked in [the CaPtain repository](https://github.com/waltstephen/CaPtain/issues/1).
+Closed by the authors on 2026-11-14: they found nothing wrong and say it matches the description in the text. Asked whether the RL randomization ranges are disjoint from the LIBERO-Plus perturbations; no answer yet. Asked in [the CaPtain repository](https://github.com/waltstephen/CaPtain/issues/1).
 
 ## Author response
 
-None yet.
+2026-11-14, waltstephen (repository owner), in [the issue](https://github.com/waltstephen/CaPtain/issues/1):
+
+> We checked and found nothing wrong; it matches our description in the text.
