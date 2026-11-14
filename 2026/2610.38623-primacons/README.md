@@ -26,7 +26,7 @@ The script downloads arXiv 2610.38623v1, checks its hash, finds the quoted passa
 
 ## Status
 
-Contacting the authors, started 2026-11-15. Asked in [the PrimaCons-CRPR repository](https://github.com/67L1/PrimaCons-CRPR/issues).
+Contacting the authors, started 2026-11-15. Asked in [the PrimaCons-CRPR repository](https://github.com/67L1/PrimaCons-CRPR/issues/2).
 
 ## Author response
 
