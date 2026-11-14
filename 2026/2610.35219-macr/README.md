@@ -26,7 +26,7 @@ The script downloads arXiv 2610.35219v2, checks its hash, finds the quoted passa
 
 ## Status
 
-Contacting the authors, started 2026-11-15. Asked in [the MACR repository](https://github.com/67L1/MACR/issues).
+Contacting the authors, started 2026-11-15. Asked in [the MACR repository](https://github.com/67L1/MACR/issues/2).
 
 ## Author response
 
