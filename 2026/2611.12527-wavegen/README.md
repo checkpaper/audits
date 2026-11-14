@@ -27,8 +27,14 @@ The script downloads arXiv 2611.12527v1, checks its hash, finds the quoted passa
 
 ## Status
 
-Contacting the authors, started 2026-11-14. Asked in [the WaveGen repository](https://github.com/sh-lee-prml/WaveGen/issues/2).
+Resolved. The authors confirmed on 2026-11-14 that 1158 and 4632 are typos for 1152 and 4608, and that each nMOS mean and interval uses the 240 ratings per system left after the noise-control exclusion (an implied rating SD of about 0.9 to 1.0). They agreed that slightly better understates the v-prediction WER gain and chose x-prediction for audio quality. Asked in [the WaveGen repository](https://github.com/sh-lee-prml/WaveGen/issues/2).
 
 ## Author response
 
-None yet.
+2026-11-14, sh-lee-prml (repository owner), in [the issue](https://github.com/sh-lee-prml/WaveGen/issues/2):
+
+> 1. Model dimensions. You're right. The correct dimensions are 1152 for the DiT input and 4608 for the feed-forward hidden layer. The values 1158 and 4632 in the table were typos.
+>
+> 2. nMOS. We collected 2,000 ratings per system. After excluding ratings from participants who gave the Gaussian noise control a nonzero score, only 240 ratings per system (12%) remained. We used those 240 ratings to calculate each nMOS mean and its reported ± interval.
+>
+> 3. v-prediction. We agree that "slightly better" understates the WER improvement from 5.57 to 3.93 in the small-model ablation. We observed faster early convergence with v-prediction, and the WER gap was smaller in larger models. Despite its lower WER, v-prediction produced substantial audible noise, so we chose x-prediction with a velocity-space loss for better audio quality.
