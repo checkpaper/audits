@@ -48,6 +48,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [HeLM](2026/2611.02660-helm/) (arXiv:2611.02660) | Table 8: three HeLM strict-success values cannot come from 5 trials per variant | [Asked the authors](https://github.com/kimspacehuni/HeLM/issues/1) |
 | [MACR](2026/2610.35219-macr/) (arXiv:2610.35219) | MMStar: 4,150 tokens per sample in Table 1 versus 312 in Table 2 | [Asked the authors](https://github.com/67L1/MACR/issues/2) |
 | [Auriga](2026/2611.01112-auriga/) (arXiv:2611.01112) | Appendix D: 3,405 successful episodes, against about 3,478 from Table 4 and Table 16 | [Asked the authors](https://github.com/lose4578/Auriga/issues/3) |
+| [HDM](2026/2611.16961-hdm/) (arXiv:2611.16961) | Table 2: routed HDM-4B P50 0.179 s is below fast-only 0.226 s | [Asked the authors](https://github.com/zhengxuyu/HDM-code/issues/4) |
 
 ## How each audit works
 
