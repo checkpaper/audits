@@ -50,6 +50,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Auriga](2026/2611.01112-auriga/) (arXiv:2611.01112) | Appendix D: 3,405 successful episodes, against about 3,478 from Table 4 and Table 16 | [Asked the authors](https://github.com/lose4578/Auriga/issues/3) |
 | [HDM](2026/2611.16961-hdm/) (arXiv:2611.16961) | Table 2: routed HDM-4B P50 0.179 s is below fast-only 0.226 s | [Asked the authors](https://github.com/zhengxuyu/HDM-code/issues/4) |
 | [Authorization Drift](2026/2611.09113-agentdrift/) (arXiv:2611.09113) | 25,207 trajectories versus 13 × 648 × 4 = 33,696; Table 3 Security CCSR | [Asked the authors](https://github.com/ZJR-FZD/AgentDrift/issues/2) |
+| [Multi-layer Indexer](2026/2611.03768-mli/) (arXiv:2611.03768) | Appendix J equal-retention gaps (4.70, 2.36, 4.12, 2.61) versus Table 9 (9.6, 5.7, 6.0, 3.7) | [Asked the authors](https://github.com/ArjunKrishnak/dsa-multi-layer-indexer/issues/1) |
 
 ## How each audit works
 
