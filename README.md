@@ -47,6 +47,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [PrimaCons](2026/2610.38623-primacons/) (arXiv:2610.38623) | Axis III, JevK5-4B: the disagreement quadrants of Figure 5 sum to 29.19%, while Table 3 gives K = 26.69% | [Asked the authors](https://github.com/67L1/PrimaCons-CRPR/issues/2) |
 | [HeLM](2026/2611.02660-helm/) (arXiv:2611.02660) | Table 8: three HeLM strict-success values cannot come from 5 trials per variant | [Asked the authors](https://github.com/kimspacehuni/HeLM/issues/1) |
 | [MACR](2026/2610.35219-macr/) (arXiv:2610.35219) | MMStar: 4,150 tokens per sample in Table 1 versus 312 in Table 2 | [Asked the authors](https://github.com/67L1/MACR/issues/2) |
+| [Auriga](2026/2611.01112-auriga/) (arXiv:2611.01112) | Appendix D: 3,405 successful episodes, against about 3,478 from Table 4 and Table 16 | [Asked the authors](https://github.com/lose4578/Auriga/issues/3) |
 
 ## How each audit works
 
