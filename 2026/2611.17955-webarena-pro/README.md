@@ -25,8 +25,12 @@ The script downloads arXiv 2611.17955v1, checks its hash, reads the GenericAgent
 
 ## Status
 
-Contacting the authors, started 2026-11-17. Asked in [the WebArena-Pro repository](https://github.com/McGill-NLP/webarena-pro/issues/4) and on the Hugging Face paper page.
+Confirmed by the authors on 2026-11-17 in [the WebArena-Pro repository](https://github.com/McGill-NLP/webarena-pro/issues/4). The C.1 numbers came from an earlier seven-model, 2,100-run analysis. Over the nine configurations in Figure 5 there are 2,700 runs and 585 successes, which matches the 585 computed here from Tables 5 and 9.
 
 ## Author response
 
-None yet.
+From the first author (imenelydiaker), 2026-11-16 21:46 UTC:
+
+> Thanks for catching this, you're right. The 1,683 failures and 878 step-limit hits (52.2%) came from an earlier seven-model, 2,100-run analysis. The published Figure 5 includes nine GenericAgent configurations, including non-omni Gemini 3.1 Pro from Table 9. Recomputing from its underlying trajectories gives 2,700 runs, 585 successes, and 2,115 failures, of which 1,154 reached the 50-step limit (54.6%).
+>
+> C.1 should therefore refer to nine configurations and 1,154 of 2,115 unsuccessful runs (54.6%). Sorry for the inconsistency, and thanks for the careful cross-check.
