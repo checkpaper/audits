@@ -25,8 +25,14 @@ The script downloads arXiv 2610.41432v1, checks its hash, finds the rows of Tabl
 
 ## Status
 
-Contacting the authors, started 2026-11-12. Asked in [the Hybrid Computer Use repository](https://github.com/microsoft/Hybrid-Computer-Use/issues/3).
+Confirmed and to be corrected. The authors said on 2026-11-17 that Table 2 priced every input token at the uncached rate although about 95% were cache hits, while Table 4 already used cached-input pricing. Recomputed, Table 2 costs about $0.51 (HCU) and $0.98 (CUA Driver) per task, and the saving becomes about 48% instead of 55%; the next version will fix both tables and state the pricing convention in each caption. Asked in [the Hybrid Computer Use repository](https://github.com/microsoft/Hybrid-Computer-Use/issues/3).
 
 ## Author response
 
-None yet.
+2026-11-17, in the GitHub issue:
+
+> Table 2 priced every input token at the uncached rate. That is wrong for these runs: about 95% of input tokens were cache hits, and Table 4 already applies the cached-input price, which is why the two tables differ by about 5x.
+>
+> Recomputing Table 2 with cached-input pricing gives per-task costs close to Table 4 (about $0.51 for HCU and $0.98 for CUA Driver), and HCU's cost saving over CUA Driver becomes about 48%, in line with Table 4, instead of the 55% in the current text. Score, Steps, Input and Time are not affected.
+>
+> The next version will report Cost computed this way in both tables, update the numbers in the text that depend on it, and state the pricing convention in each caption.
