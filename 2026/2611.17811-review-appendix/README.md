@@ -26,7 +26,7 @@ The script downloads arXiv 2611.17811v1 and the three scripts at the pinned comm
 
 ## Status
 
-Contacting the authors, started 2026-11-17.
+Contacting the authors, started 2026-11-17. Asked in [the review_appendix repository](https://github.com/cincynlp/review_appendix/issues/2) and on the Hugging Face paper page.
 
 ## Author response
 
