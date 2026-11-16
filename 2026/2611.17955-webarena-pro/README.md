@@ -25,7 +25,7 @@ The script downloads arXiv 2611.17955v1, checks its hash, reads the GenericAgent
 
 ## Status
 
-Contacting the authors, started 2026-11-17.
+Contacting the authors, started 2026-11-17. Asked in [the WebArena-Pro repository](https://github.com/McGill-NLP/webarena-pro/issues/4) and on the Hugging Face paper page.
 
 ## Author response
 
