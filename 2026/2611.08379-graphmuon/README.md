@@ -25,7 +25,7 @@ The script downloads arXiv 2611.08379v1, checks its hash, reads the budgets in T
 
 ## Status
 
-Contacting the authors, started 2026-11-17.
+Contacting the authors, started 2026-11-17. Asked in [the GraphMuon repository](https://github.com/guy-hadad/GraphMuon/issues/1) and on the Hugging Face paper page.
 
 ## Author response
 
