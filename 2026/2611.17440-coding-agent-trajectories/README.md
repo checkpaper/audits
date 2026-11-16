@@ -26,7 +26,7 @@ The script downloads arXiv 2611.17440v1, checks its hash, reads Table 1, recover
 
 ## Status
 
-Contacting the authors, started 2026-11-17.
+Contacting the authors, started 2026-11-17. Asked in [the trajectory-analyzer repository](https://github.com/SWE-rebench/trajectory-analyzer/issues/1) and on the Hugging Face paper page.
 
 ## Author response
 

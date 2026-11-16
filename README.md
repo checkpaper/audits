@@ -56,7 +56,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Authorization Drift](2026/2611.09113-agentdrift/) (arXiv:2611.09113) | 25,207 trajectories versus 13 × 648 × 4 = 33,696; Table 3 Security CCSR | [Asked the authors](https://github.com/ZJR-FZD/AgentDrift/issues/2) |
 | [Multi-layer Indexer](2026/2611.03768-mli/) (arXiv:2611.03768) | Appendix J equal-retention gaps (4.70, 2.36, 4.12, 2.61) versus Table 9 (9.6, 5.7, 6.0, 3.7) | [Asked the authors](https://github.com/ArjunKrishnak/dsa-multi-layer-indexer/issues/1) |
 | [StepX-OPD](2026/2611.04386-stepx-opd/) (arXiv:2611.04386) | Sec. 5.4: w/o velocity regression 0.8894, against 0.8731 in Table 6 | [Asked the authors](https://github.com/WinterCCC/StepX-OPD/issues/3) |
-| [Coding agent trajectories](2026/2611.17440-coding-agent-trajectories/) (arXiv:2611.17440) | Table 1: exact match 77.5% exceeds the 74.0% that mutation-type agreement allows | Asking the authors |
+| [Coding agent trajectories](2026/2611.17440-coding-agent-trajectories/) (arXiv:2611.17440) | Table 1: exact match 77.5% exceeds the 74.0% that mutation-type agreement allows | [Asked the authors](https://github.com/SWE-rebench/trajectory-analyzer/issues/1) |
 
 ## How each audit works
 
