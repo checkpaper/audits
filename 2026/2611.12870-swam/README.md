@@ -25,8 +25,10 @@ The script downloads arXiv 2611.12870v2, checks its hash, reads Tables 3 to 9, a
 
 ## Status
 
-Contacting the authors, started 2026-11-13. Asked in [the SWAM repository](https://github.com/shaaaaron/SWAM/issues/2).
+Confirmed and corrected. The authors said on 2026-11-16 that the Table 4 value should be 54.96% (687/1250) and the gain in the text 4.16 points; the fix will appear in the next arXiv revision. Asked in [the SWAM repository](https://github.com/shaaaaron/SWAM/issues/2).
 
 ## Author response
 
-None yet.
+2026-11-16, in the GitHub issue:
+
+> You are right: the value in Table 4 should be 54.96%, and the corresponding gain in the text should be 4.16 percentage points. We have corrected the manuscript, and the changes will appear in the next arXiv revision.
