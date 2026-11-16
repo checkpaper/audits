@@ -26,7 +26,7 @@ The script downloads arXiv 2611.18397v1, checks its hash, counts the type column
 
 ## Status
 
-Contacting the authors, started 2026-11-17.
+Contacting the authors, started 2026-11-17. Asked in [the Gamer repository](https://github.com/RainBowLuoCS/Gamer/issues/1) and on the Hugging Face paper page.
 
 ## Author response
 
