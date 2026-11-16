@@ -25,8 +25,18 @@ The script downloads arXiv 2611.16961v1, checks its hash, finds the quoted passa
 
 ## Status
 
-Contacting the authors, started 2026-11-16. Asked in [the HDM repository](https://github.com/zhengxuyu/HDM-code/issues/4).
+Explained and to be corrected. The authors said on 2026-11-16 that the timing order inflated the fast-only P50: it was always timed first on each item (a cold-start cost on new prompt lengths) and right after a thinking pass. Timed warm, fast only is 0.154 s and routed at λ = 0 is 0.176 s; the next revision will correct the fast-only row and report the mean next to the median. Asked in [the HDM repository](https://github.com/zhengxuyu/HDM-code/issues/4); answered on [the Hugging Face paper page](https://huggingface.co/papers/2611.16961).
 
 ## Author response
 
-None yet.
+2026-11-16, on the Hugging Face paper page (excerpt):
+
+> Both rows come from the same run and the same timer. [...] Fast only is always timed first on each item, so it paid this cost on 166 of the 231 items. The routed rows never paid it. [...] A fast pass that comes right after a thinking pass is slower by about 0.03 to 0.04 s [...]
+>
+> | | P50 as published | P50 with the fast pass timed warm | Mean |
+> | --- | --- | --- | --- |
+> | Fast only | 0.226 s | 0.154 s | 0.43 s |
+> | Routed, λ = 0 | 0.179 s | 0.176 s | 4.8 s |
+> | Always thinking | 3.86 s | not remeasured | 9.8 s |
+>
+> We will correct the fast-only row and report the mean next to the median in the next revision.
