@@ -26,7 +26,7 @@ The script downloads arXiv 2611.12068v1, checks its hash, reads Table 7, and tes
 
 ## Status
 
-Contacting the authors, started 2026-11-17.
+Contacting the authors, started 2026-11-17. Asked in [the MIRIX repository](https://github.com/Mirix-AI/MIRIX/issues/156) and on the Hugging Face paper page.
 
 ## Author response
 
