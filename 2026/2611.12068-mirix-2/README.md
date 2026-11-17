@@ -31,3 +31,7 @@ Contacting the authors, started 2026-11-17. Asked in [the MIRIX repository](http
 ## Author response
 
 None yet.
+
+## Other comments
+
+Jack Tan (@Jacktan007, not an author) independently checked the same Table 7 rows on 2026-11-17 and reached the same k/300 versus k/900 result. He also noted that the public LongMemEval-S judge (`evals/mab/llm_judge_mab.py`) makes one gpt-4o call at n=1, while the paper describes a gpt-4o-mini judge with majority-of-3 voting. See [his comment](https://github.com/Mirix-AI/MIRIX/issues/156).
