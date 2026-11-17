@@ -59,6 +59,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Coding agent trajectories](2026/2611.17440-coding-agent-trajectories/) (arXiv:2611.17440) | Table 1: exact match 77.5% exceeds the 74.0% that mutation-type agreement allows | [Asked the authors](https://github.com/SWE-rebench/trajectory-analyzer/issues/1) |
 | [GraphMuon](2026/2611.08379-graphmuon/) (arXiv:2611.08379) | Questions/GAT: AdamW 481 and Muon 320 epochs to target against a 300-epoch budget | [Asked the authors](https://github.com/guy-hadad/GraphMuon/issues/1) |
 | [SIMIT](2026/2611.00053-simit/) (arXiv:2611.00053) | MM-Bench (EN) 84.1 and 58.3 are not k/500; all values fit 132 questions | [Confirmed by the authors](https://github.com/monurcan/simit_paper/issues/1); lmms-eval Lite scores only 132 rows, Table 4 to be updated |
+| [SWE-CoWork](2026/2611.20218-swe-cowork/) (arXiv:2611.20218) | Figure 7(c) counts 979 failed F2P nodes, Table 2 leaves 976; six Table 2 values do not fit 2,699/562 | [Asked the authors](https://github.com/TokenWave-AI/swe-cowork-bench/issues/1) |
 
 ## How each audit works
 
