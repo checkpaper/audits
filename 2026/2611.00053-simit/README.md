@@ -25,7 +25,7 @@ The script downloads arXiv 2611.00053v1, checks its hash, reads the accuracy row
 
 ## Status
 
-Contacting the authors, started 2026-11-17.
+Contacting the authors, started 2026-11-17. Asked in [the SIMIT repository](https://github.com/monurcan/simit_paper/issues/1) and on the Hugging Face paper page.
 
 ## Author response
 
