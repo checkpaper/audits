@@ -26,7 +26,7 @@ The script downloads arXiv 2611.17811v1 and the three scripts at the pinned comm
 
 ## Status
 
-Explained by the authors on 2026-11-17 in [the review_appendix repository](https://github.com/cincynlp/review_appendix/issues/2). The prompts differ on purpose: human reviews rarely name a section, and without the extra rule the LLM guessed the appendix for generic comments. The authors checked attributions for both review types by hand. The paper does not yet say that the prompts differ, and the 10 versus 15 page point is open.
+Explained by the authors on 2026-11-17 in [the review_appendix repository](https://github.com/cincynlp/review_appendix/issues/2). The prompts differ on purpose: human reviews rarely name a section, and without the extra rule the LLM guessed the appendix for generic comments. The authors checked attributions for both review types by hand. In a second reply the authors said they plan to add the suggested details in a revision in the coming weeks, and that the human-review sample used a 10-page threshold, while the 15 pages in the code applies to the ICLR 2027 papers of Section 4. They will update the repository.
 
 ## Author response
 
@@ -39,3 +39,9 @@ From SaptGhosh, 2026-11-17 00:38 UTC:
 > Human-written reviews, on the other hand, rarely mention which section a weakness refers to. In our initial runs, this led the LLM to guess. For example, a generic comment like "the mathematical notations are hard to follow" was attributed to the appendix, since the appendix contains most of the proofs. But a careful reading of the review made it clear the reviewer was not talking about the appendix. We added the instruction to stop the LLM from assigning sections based on such assumptions.
 >
 > Most importantly, during our test runs we manually went through the outputs for both human and AI reviews and checked the attributions ourselves. We refined the prompts until they gave reliable attributions for each type of review. The instructions differ slightly only because the reviews themselves differ.
+
+From SaptGhosh, 2026-11-17 05:51 UTC:
+
+> Thank you for these suggestions. We plan to include these in the revision in the coming weeks.
+>
+> Regarding the appendix threshold: We use the same script (extract_long_appendix_iclr.py) to select papers for both the AI-review and human-review analyses of ICLR. The 15-page threshold currently set in the code applies to the ICLR 2027 papers (section 4 results). For the human-review sample, we set it to 10 pages. We will update the repo and make the instructions more clear.
