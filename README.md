@@ -58,6 +58,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [StepX-OPD](2026/2611.04386-stepx-opd/) (arXiv:2611.04386) | Sec. 5.4: w/o velocity regression 0.8894, against 0.8731 in Table 6 | [Asked the authors](https://github.com/WinterCCC/StepX-OPD/issues/3) |
 | [Coding agent trajectories](2026/2611.17440-coding-agent-trajectories/) (arXiv:2611.17440) | Table 1: exact match 77.5% exceeds the 74.0% that mutation-type agreement allows | [Asked the authors](https://github.com/SWE-rebench/trajectory-analyzer/issues/1) |
 | [GraphMuon](2026/2611.08379-graphmuon/) (arXiv:2611.08379) | Questions/GAT: AdamW 481 and Muon 320 epochs to target against a 300-epoch budget | [Asked the authors](https://github.com/guy-hadad/GraphMuon/issues/1) |
+| [SIMIT](2026/2611.00053-simit/) (arXiv:2611.00053) | MM-Bench (EN) 84.1 and 58.3 are not k/500; all values fit 132 questions | Asking the authors |
 
 ## How each audit works
 
