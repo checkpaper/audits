@@ -62,7 +62,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [SWE-CoWork](2026/2611.20218-swe-cowork/) (arXiv:2611.20218) | Figure 7(c) counts 979 failed F2P nodes, Table 2 leaves 976; six Table 2 values do not fit 2,699/562 | [Asked the authors](https://github.com/TokenWave-AI/swe-cowork-bench/issues/1) |
 | [Calpha](2026/2611.20986-calpha/) (arXiv:2611.20986) | Sec. 4.4 split (0.96 on 15, 0.28 on 185) averages 0.331; Table 4 gives 0.311 | [Asked the authors](https://github.com/yliust/Calpha/issues/1) |
 | [ReDiverse](2026/2611.18550-rediverse/) (arXiv:2611.18550) | Sec. 5.2 says it beats Noise Optimization except SD3 Vendi; Table 4a has Noise Optimization ahead on all five SDXL metrics; Table 5a TPIPS_avg 26.6 | [Asked the authors](https://huggingface.co/papers/2611.18550) on Hugging Face |
-| [ScrapeBench](2026/2611.11306-scrapebench/) (arXiv:2611.11306) | Human rates 42.8% and 39.4% are not k/450 (30 participants × 15 sites); ICC 0.345 gives design effect 5.83, paper says 5.69 | Not yet reported |
+| [ScrapeBench](2026/2611.11306-scrapebench/) (arXiv:2611.11306) | Human rates 42.8% and 39.4% are not k/450 (30 participants × 15 sites); ICC 0.345 gives design effect 5.83, paper says 5.69 | [Asked the authors](https://github.com/imperialite/scrapebench/issues/2) |
 
 ## How each audit works
 

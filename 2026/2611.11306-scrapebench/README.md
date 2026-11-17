@@ -26,4 +26,4 @@ The script downloads arXiv 2611.11306v1, checks its hash, quotes Sec. 6, App. E.
 
 ## Status
 
-Not yet reported.
+[Asked the authors](https://github.com/imperialite/scrapebench/issues/2) on 2026-11-18.
