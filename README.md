@@ -61,6 +61,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [SIMIT](2026/2611.00053-simit/) (arXiv:2611.00053) | MM-Bench (EN) 84.1 and 58.3 are not k/500; all values fit 132 questions | [Confirmed by the authors](https://github.com/monurcan/simit_paper/issues/1); lmms-eval Lite scores only 132 rows, Table 4 to be updated |
 | [SWE-CoWork](2026/2611.20218-swe-cowork/) (arXiv:2611.20218) | Figure 7(c) counts 979 failed F2P nodes, Table 2 leaves 976; six Table 2 values do not fit 2,699/562 | [Asked the authors](https://github.com/TokenWave-AI/swe-cowork-bench/issues/1) |
 | [Calpha](2026/2611.20986-calpha/) (arXiv:2611.20986) | Sec. 4.4 split (0.96 on 15, 0.28 on 185) averages 0.331; Table 4 gives 0.311 | [Asked the authors](https://github.com/yliust/Calpha/issues/1) |
+| [ReDiverse](2026/2611.18550-rediverse/) (arXiv:2611.18550) | Sec. 5.2 says it beats Noise Optimization except SD3 Vendi; Table 4a has Noise Optimization ahead on all five SDXL metrics; Table 5a TPIPS_avg 26.6 | [Asked the authors](https://huggingface.co/papers/2611.18550) on Hugging Face |
 
 ## How each audit works
 
