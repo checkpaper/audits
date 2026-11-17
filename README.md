@@ -63,7 +63,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Calpha](2026/2611.20986-calpha/) (arXiv:2611.20986) | Sec. 4.4 split (0.96 on 15, 0.28 on 185) averages 0.331; Table 4 gives 0.311 | [Asked the authors](https://github.com/yliust/Calpha/issues/1) |
 | [ReDiverse](2026/2611.18550-rediverse/) (arXiv:2611.18550) | Sec. 5.2 says it beats Noise Optimization except SD3 Vendi; Table 4a has Noise Optimization ahead on all five SDXL metrics; Table 5a TPIPS_avg 26.6 | [Asked the authors](https://huggingface.co/papers/2611.18550) on Hugging Face |
 | [ScrapeBench](2026/2611.11306-scrapebench/) (arXiv:2611.11306) | Human rates 42.8% and 39.4% are not k/450 (30 participants × 15 sites); ICC 0.345 gives design effect 5.83, paper says 5.69 | [Asked the authors](https://github.com/imperialite/scrapebench/issues/2) |
-| [DeepMem](2026/2611.05255-deepmem/) (arXiv:2611.05255) | Sec. 3.1 and Table 1 report three seeds (1.9694 ± 0.020, 1.9758 ± 0.017); App. A.2 says one run per configuration for the same rows | Not yet reported |
+| [DeepMem](2026/2611.05255-deepmem/) (arXiv:2611.05255) | Sec. 3.1 and Table 1 report three seeds (1.9694 ± 0.020, 1.9758 ± 0.017); App. A.2 says one run per configuration for the same rows | [Asked the authors](https://github.com/akhadangi/deepmem/issues/1) |
 
 ## How each audit works
 

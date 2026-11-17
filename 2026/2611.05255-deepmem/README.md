@@ -25,4 +25,4 @@ The script downloads arXiv 2611.05255v1, checks its hash, and quotes Sec. 3.1, T
 
 ## Status
 
-Not yet reported.
+[Asked the authors](https://github.com/akhadangi/deepmem/issues/1) on 2026-11-18.
