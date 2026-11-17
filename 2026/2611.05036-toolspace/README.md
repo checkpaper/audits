@@ -25,8 +25,21 @@ The script downloads arXiv 2611.05036v1, checks its hash, and compares the Table
 
 ## Status
 
-Contacting the authors, started 2026-11-12. Asked in [the ToolSpace repository](https://github.com/dongguanting/ToolSpace/issues/4).
+Explained by the authors on 2026-11-17 in [the ToolSpace repository](https://github.com/dongguanting/ToolSpace/issues/4). The 38.2-point drop is DeepSeek-V4.1-Flash-1017 (60.5 to 22.3), a checkpoint of DeepSeek-V4.1-Flash; Figure 1 is an overview and Table 2 has the full results. The authors may add the row to Figure 1(d) in a future update.
 
 ## Author response
 
-None yet.
+From dongguanting, 2026-11-17 04:30 UTC:
+
+> Hi, thanks for the careful check — I looked into this and believe the numbers are consistent.
+>
+> The **38.2** point drop is from **DeepSeek-V4.1-Flash-1017** on AutomationBench (Standard → Pro): **60.5 → 22.3**.
+>
+> Regarding the two model names:
+>
+> - **DeepSeek-V4.1-Flash**: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash  
+> - **DeepSeek-V4.1-Flash-1017** is a checkpoint of DeepSeek-V4.1-Flash: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017  
+>
+> Figure 1 is only an quick overview visualization, while **Table 2** reports the full results. We’ll consider adding DeepSeek-V4.1-Flash to Figure 1(d) in a future update.
+>
+> Thanks again for the thorough audit and for building tools that help readers verify paper numbers.

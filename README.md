@@ -22,7 +22,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [EvoMemState](2026/2611.03743-evomemstate/) (arXiv:2611.03743) | One MemTrapBench Avg. in Table 1 (78.7) is not the mean of its four scenarios (81.75) | [Asked the authors](https://github.com/XMUDeepLIT/EvoMemState/issues/2) |
 | [RoboColosseum](2026/2611.02497-robocolosseum/) (arXiv:2611.02497) | Text gives a 58–77% score range and a 13% success ceiling; Figure 5 shows 58–70% and cells up to 25% | [Asked the authors](https://github.com/RoboColosseum/robocolosseum-client/issues/1) |
 | [NorthCUA](2026/2611.02102-northcua/) (arXiv:2611.02102) | Pro OSWorld 2.0 binary 27.3 after SFT is not k/108; all other NorthCUA binary scores are | [Asked the authors](https://huggingface.co/papers/2611.02102) |
-| [ToolSpace](2026/2611.05036-toolspace/) (arXiv:2611.05036) | Headline 38.2-point drop comes from a DeepSeek -1017 row that is not in Figure 1(d) | [Asked the authors](https://github.com/dongguanting/ToolSpace/issues/4) |
+| [ToolSpace](2026/2611.05036-toolspace/) (arXiv:2611.05036) | Headline 38.2-point drop comes from a DeepSeek -1017 row that is not in Figure 1(d) | [Explained by the authors](https://github.com/dongguanting/ToolSpace/issues/4); -1017 is a DeepSeek-V4.1-Flash checkpoint |
 | [uni-robot-agent](2026/2611.01560-uni-robot-agent/) (arXiv:2611.01560) | Section 5.1 gives Astra 98.6% depth retention from 42 episodes; Table 1 (252 episodes) gives 91.4% | [Answered by the authors](https://github.com/Open-RUA/uni-robot-agent/issues/39); 42-episode run explained |
 | [Switch-SWE](2026/2611.02017-switch-swe/) (arXiv:2611.02017) | Section 4.3 workload ratios match a commented-out earlier Table 2, not the printed one | [Asked the authors](https://github.com/Miraclecsc/Switch-SWE/issues/2) |
 | [Hybrid Computer Use](2026/2610.41432-hybrid-computer-use/) (arXiv:2610.41432) | Same OSWorld 1.0 runs cost $2.52/$5.65 in Table 2 and $0.504/$0.983 in Table 4 | [Confirmed by the authors](https://github.com/microsoft/Hybrid-Computer-Use/issues/3): Table 2 ignored cached-input pricing; saving 48%, not 55%, corrected in the next version |
@@ -58,7 +58,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [StepX-OPD](2026/2611.04386-stepx-opd/) (arXiv:2611.04386) | Sec. 5.4: w/o velocity regression 0.8894, against 0.8731 in Table 6 | [Asked the authors](https://github.com/WinterCCC/StepX-OPD/issues/3) |
 | [Coding agent trajectories](2026/2611.17440-coding-agent-trajectories/) (arXiv:2611.17440) | Table 1: exact match 77.5% exceeds the 74.0% that mutation-type agreement allows | [Asked the authors](https://github.com/SWE-rebench/trajectory-analyzer/issues/1) |
 | [GraphMuon](2026/2611.08379-graphmuon/) (arXiv:2611.08379) | Questions/GAT: AdamW 481 and Muon 320 epochs to target against a 300-epoch budget | [Asked the authors](https://github.com/guy-hadad/GraphMuon/issues/1) |
-| [SIMIT](2026/2611.00053-simit/) (arXiv:2611.00053) | MM-Bench (EN) 84.1 and 58.3 are not k/500; all values fit 132 questions | [Asked the authors](https://github.com/monurcan/simit_paper/issues/1) |
+| [SIMIT](2026/2611.00053-simit/) (arXiv:2611.00053) | MM-Bench (EN) 84.1 and 58.3 are not k/500; all values fit 132 questions | [Confirmed by the authors](https://github.com/monurcan/simit_paper/issues/1); lmms-eval Lite scores only 132 rows, Table 4 to be updated |
 
 ## How each audit works
 
