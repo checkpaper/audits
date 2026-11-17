@@ -26,8 +26,16 @@ The script downloads arXiv 2611.18397v1, checks its hash, counts the type column
 
 ## Status
 
-Contacting the authors, started 2026-11-17. Asked in [the Gamer repository](https://github.com/RainBowLuoCS/Gamer/issues/1) and on the Hugging Face paper page.
+Confirmed by the authors on 2026-11-17 in [the Gamer repository](https://github.com/RainBowLuoCS/Gamer/issues/1). The type column of Table 14 was mislabelled; the correct split is 32 navigation and 16 dialogue, Table 6 is unchanged, and the fix will be in the next arXiv version.
 
 ## Author response
 
-None yet.
+From RainBowLuoCS, 2026-11-17 01:41 UTC:
+
+> Hi, thanks so much for pointing this out and for the careful check!
+>
+> You're absolutely right. The correct breakdown is navigation (32), dialogue (16), combat (2), UI (2), and puzzle (3). There was a labeling error in the type column of Table 14, which we have now fixed. The results in Table 6 are correct and remain unchanged.
+>
+> We'll include this correction in the next arXiv version.
+>
+> Thanks again for your attention to our work and for helping us improve the paper. We really appreciate it! 😊

@@ -26,8 +26,16 @@ The script downloads arXiv 2611.17811v1 and the three scripts at the pinned comm
 
 ## Status
 
-Contacting the authors, started 2026-11-17. Asked in [the review_appendix repository](https://github.com/cincynlp/review_appendix/issues/2) and on the Hugging Face paper page.
+Explained by the authors on 2026-11-17 in [the review_appendix repository](https://github.com/cincynlp/review_appendix/issues/2). The prompts differ on purpose: human reviews rarely name a section, and without the extra rule the LLM guessed the appendix for generic comments. The authors checked attributions for both review types by hand. The paper does not yet say that the prompts differ, and the 10 versus 15 page point is open.
 
 ## Author response
 
-None yet.
+From SaptGhosh, 2026-11-17 00:38 UTC:
+
+> Thank you for this question. The prompts differ because AI-generated and human-written reviews are structured very differently.
+>
+> AI-generated reviews always say which section a strength or weakness refers to. They do this either directly ("Section 6.2 mentions xxx...") or in parentheses after the comment ("there might be a confound in the analysis (Section 6.2)"). This pattern is consistent across AI reviews, which makes attribution easy. The instruction "Base your answer on where the content actually appears in the paper, not on where the review says it appears" handles a different case that is common in AI reviews: a weakness that cites several sections to support its claim. For example, the main issue may be in Section 3, but the weakness also points to Sections 5 and 6 and Appendix B as support. In such cases, we want the weakness attributed to where the issue actually lies, the main body (Section 3), and this instruction is designed for that.
+>
+> Human-written reviews, on the other hand, rarely mention which section a weakness refers to. In our initial runs, this led the LLM to guess. For example, a generic comment like "the mathematical notations are hard to follow" was attributed to the appendix, since the appendix contains most of the proofs. But a careful reading of the review made it clear the reviewer was not talking about the appendix. We added the instruction to stop the LLM from assigning sections based on such assumptions.
+>
+> Most importantly, during our test runs we manually went through the outputs for both human and AI reviews and checked the attributions ourselves. We refined the prompts until they gave reliable attributions for each type of review. The instructions differ slightly only because the reviews themselves differ.
