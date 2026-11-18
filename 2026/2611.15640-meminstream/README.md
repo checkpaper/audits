@@ -25,4 +25,4 @@ The script downloads arXiv 2611.15640v1, checks its hash, quotes Sec. 5.3, parse
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/HKUST-LongGroup/MemInStream/issues/1) on 2026-11-19.
