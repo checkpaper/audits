@@ -26,3 +26,5 @@ The script downloads arXiv 2611.05255v1, checks its hash, and quotes Sec. 3.1, T
 ## Status
 
 [Asked the authors](https://github.com/akhadangi/deepmem/issues/1) on 2026-11-18.
+
+Author reply (2026-11-18): the main-text experiments use three seeds; the ablations in App. A use a single run per configuration because of compute limits, and the Table A.2 macro is the mean across FLORES languages. The issue was closed as answered.
