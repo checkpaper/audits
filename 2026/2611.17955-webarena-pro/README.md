@@ -34,3 +34,5 @@ From the first author (imenelydiaker), 2026-11-16 21:46 UTC:
 > Thanks for catching this, you're right. The 1,683 failures and 878 step-limit hits (52.2%) came from an earlier seven-model, 2,100-run analysis. The published Figure 5 includes nine GenericAgent configurations, including non-omni Gemini 3.1 Pro from Table 9. Recomputing from its underlying trajectories gives 2,700 runs, 585 successes, and 2,115 failures, of which 1,154 reached the 50-step limit (54.6%).
 >
 > C.1 should therefore refer to nine configurations and 1,154 of 2,115 unsuccessful runs (54.6%). Sorry for the inconsistency, and thanks for the careful cross-check.
+
+A maintainer (xhluca) closed the issue as completed on 2026-11-18.
