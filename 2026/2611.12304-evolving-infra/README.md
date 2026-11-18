@@ -31,3 +31,5 @@ Contacting the authors, started 2026-11-15. Asked in [the EvolvingInfra reposito
 ## Author response
 
 None yet.
+
+Author reply (2026-11-18): the two experiments (Sec. 6.2 / Table C.3 and Sec. 6.4 / Figure 8) use different settings. We asked which settings differ.
