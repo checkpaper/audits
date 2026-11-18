@@ -65,6 +65,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [ScrapeBench](2026/2611.11306-scrapebench/) (arXiv:2611.11306) | Human rates 42.8% and 39.4% are not k/450 (30 participants × 15 sites); ICC 0.345 gives design effect 5.83, paper says 5.69 | [Asked the authors](https://github.com/imperialite/scrapebench/issues/2) |
 | [DeepMem](2026/2611.05255-deepmem/) (arXiv:2611.05255) | Sec. 3.1 and Table 1 report three seeds (1.9694 ± 0.020, 1.9758 ± 0.017); App. A.2 says one run per configuration for the same rows | [Answered](https://github.com/akhadangi/deepmem/issues/1): main text 3 seeds, ablations single runs |
 | [Breath-Dx](2026/2611.15348-breath-dx/) (arXiv:2611.15348) | Abstract gives a 0.05–0.12 AUC drop; Table V drops are 0.053–0.074; A15 outside 0.45–0.55 in 10 of 19 Table III rows | [Asked the authors](https://github.com/ivanpodd/Breath-Dx/issues/1) |
+| [LynnReal-Hand](2026/2611.21479-lynnreal-hand/) (arXiv:2611.21479) | Table 3 StreamRender2: 157.65 ms per 17 frames gives 107.8 FPS, table says 123.91; the other six rows fit | Not yet reported |
 
 ## How each audit works
 

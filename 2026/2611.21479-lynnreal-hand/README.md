@@ -1,0 +1,28 @@
+# LynnReal-Hand: Unlocking World Interaction with Hand Control (arXiv:2611.21479): consistency checks
+
+In Table 3, StreamRender2's FPS does not follow from its latency per 17 frames, unlike the other six rows.
+
+## Paper
+
+- Title: LynnReal-Hand: Unlocking World Interaction with Hand Control
+- arXiv: [2611.21479v1](https://arxiv.org/abs/2611.21479v1) (the version checked, sha256 `551ef9c7…657b`)
+- Hugging Face: [papers/2611.21479](https://huggingface.co/papers/2611.21479)
+- Code: [LynnReal-AI/LynnReal](https://github.com/LynnReal-AI/LynnReal)
+- CheckPaper report: [checkpaper.app/r/q9xwkjzm78](https://checkpaper.app/r/q9xwkjzm78)
+
+## Findings
+
+1. **Table 3, StreamRender2.** Table 3 (p. 11) reports decoding latency for 17 frames and FPS. For six rows FPS × latency is 16.9 to 17.0 frames (e.g. Ultra-Fast-VAE 363.21 FPS × 46.77 ms). StreamRender2 has 157.65 ms and 123.91 FPS, which is 19.5 frames; 17 / 157.65 ms = 107.83 FPS. Either the latency or the FPS of this row is off.
+
+## Reproduce
+
+```bash
+pip install -r ../../requirements.txt
+python verify.py
+```
+
+The script downloads arXiv 2611.21479v1, checks its hash, quotes Table 3, and recomputes FPS from latency.
+
+## Status
+
+Not yet reported.
