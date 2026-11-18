@@ -27,3 +27,5 @@ The script downloads arXiv 2611.20218v1, checks its hash, quotes Figure 7 and Ta
 ## Status
 
 [Asked the authors](https://github.com/TokenWave-AI/swe-cowork-bench/issues/1) on 2026-11-18.
+
+Author reply (2026-11-18): in Figure 7(c) one F2P node can be linked to several requirements and so to several failure stages, so the stage counts overlap and can sum to more than the distinct failed nodes; the caption will be clarified. Table 2 values were rounded to one decimal and printed with two; all models use 2,699 F2P and 562 P2P nodes (at one decimal, all six values fit these totals). Both points will be clarified in the next revision.
