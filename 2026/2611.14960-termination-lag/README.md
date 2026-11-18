@@ -26,4 +26,4 @@ The script downloads the arXiv PDF and source, and the released ctx_growth.py at
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/musacim/termination-lag/issues/1) on 2026-11-19.
