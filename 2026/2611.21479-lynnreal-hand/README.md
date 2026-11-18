@@ -25,4 +25,4 @@ The script downloads arXiv 2611.21479v1, checks its hash, quotes Table 3, and re
 
 ## Status
 
-Not yet reported.
+[Asked the authors](https://github.com/LynnReal-AI/LynnReal/issues/3) on 2026-11-19.
