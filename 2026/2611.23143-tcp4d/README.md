@@ -25,4 +25,4 @@ The script downloads arXiv 2611.23143v1, checks its hash, quotes the abstract an
 
 ## Status
 
-Not yet reported.
+[Asked the authors](https://github.com/Livioni/TCP4D/issues/1) on 2026-11-19.
