@@ -67,6 +67,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Breath-Dx](2026/2611.15348-breath-dx/) (arXiv:2611.15348) | Abstract gives a 0.05–0.12 AUC drop; Table V drops are 0.053–0.074; A15 outside 0.45–0.55 in 10 of 19 Table III rows | [Asked the authors](https://github.com/ivanpodd/Breath-Dx/issues/1) |
 | [LynnReal-Hand](2026/2611.21479-lynnreal-hand/) (arXiv:2611.21479) | Table 3 StreamRender2: 157.65 ms per 17 frames gives 107.8 FPS, table says 123.91; the other six rows fit | [Asked the authors](https://github.com/LynnReal-AI/LynnReal/issues/3) |
 | [TCP4D](2026/2611.23143-tcp4d/) (arXiv:2611.23143) | Abstract 41.5% target-robot gain is ARX-X5 alone; UR5-WSG +7.0 points, mean of both +24.25 | [Asked the authors](https://github.com/Livioni/TCP4D/issues/1) |
+| [Termination Lag](2026/2611.14960-termination-lag/) (arXiv:2611.14960) | Table 1 Context growth row in red; source comment says the values are means, caption says medians | Not yet asked |
 
 ## How each audit works
 
