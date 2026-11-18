@@ -26,4 +26,4 @@ The script downloads arXiv 2611.15348v1, checks its hash, quotes the abstract, S
 
 ## Status
 
-Not yet reported.
+[Asked the authors](https://github.com/ivanpodd/Breath-Dx/issues/1) on 2026-11-19.
