@@ -68,6 +68,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [LynnReal-Hand](2026/2611.21479-lynnreal-hand/) (arXiv:2611.21479) | Table 3 StreamRender2: 157.65 ms per 17 frames gives 107.8 FPS, table says 123.91; the other six rows fit | [Asked the authors](https://github.com/LynnReal-AI/LynnReal/issues/3) |
 | [TCP4D](2026/2611.23143-tcp4d/) (arXiv:2611.23143) | Abstract 41.5% target-robot gain is ARX-X5 alone; UR5-WSG +7.0 points, mean of both +24.25 | [Asked the authors](https://github.com/Livioni/TCP4D/issues/1) |
 | [Termination Lag](2026/2611.14960-termination-lag/) (arXiv:2611.14960) | Table 1 Context growth row in red; source comment says the values are means, caption says medians | [Asked the authors](https://github.com/musacim/termination-lag/issues/1) |
+| [MemInStream](2026/2611.15640-meminstream/) (arXiv:2611.15640) | Text says StreamForest is the best online model in all four categories; Table 2 has JoyAI ahead on State Tracking & Updating, 43.9 vs 37.1 | Not yet asked |
 
 ## How each audit works
 
