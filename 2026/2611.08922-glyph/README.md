@@ -26,4 +26,4 @@ The script downloads arXiv 2611.08922v1, checks its hash, quotes the introductio
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/StanfordMIMI/Glyph/issues/1) on 2026-11-20.
