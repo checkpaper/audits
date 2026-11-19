@@ -26,4 +26,4 @@ The script downloads arXiv 2611.24733v1, checks its hash, quotes Table 1, Table 
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/bruno686/CriticNPU/issues/1) on 2026-11-20.
