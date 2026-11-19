@@ -73,7 +73,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [RoughCut-Bench](2026/2611.24098-roughcut-bench/) (arXiv:2611.24098) | Table 3: 6 of 8 RM→R rates not k/191 (191 pooled pairs); Qwen3.5-Plus D F1 0.543 vs 0.553 from its P and R | [Asked the authors](https://github.com/Whalesong-zrs/RoughCut-Bench/issues/1) |
 | [DNeo](2026/2611.21925-dneo/) (arXiv:2611.21925) | Sec. 5.4.2 head gains +0.056 / +0.141 vs. +0.144 / +0.088 from Table 6; +58% at B = 32 vs. 2,201 / 1,475 = +49% in Table 3 | [Asked the authors](https://github.com/J-sandler/DNeo/issues/3) |
 | [CriticNPU](2026/2611.24733-criticnpu/) (arXiv:2611.24733) | App. E.1: CMA-ES decode win rate "0–3 of 16" is its prefill row (decode 81 of 96); App. E.3 "within 5%" vs. −23% TPOT in Table 12 | [Asked the authors](https://github.com/bruno686/CriticNPU/issues/1) |
-| [LuthorSQL](2026/2611.17780-luthorsql/) (arXiv:2611.17780) | App. F: "330 questions" split as 279 + 121 = 400; "18% fewer logged tokens" is the tool-call row, caption says tokens were not lower | Not yet asked |
+| [LuthorSQL](2026/2611.17780-luthorsql/) (arXiv:2611.17780) | App. F: "330 questions" split as 279 + 121 = 400; "18% fewer logged tokens" is the tool-call row, caption says tokens were not lower | [Asked the authors](https://github.com/IAMIbrahimmemon/luthorsql/issues/2) |
 
 ## How each audit works
 

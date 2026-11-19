@@ -26,4 +26,4 @@ The script downloads arXiv 2611.17780v1, checks its hash, quotes the paragraph a
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/IAMIbrahimmemon/luthorsql/issues/2) on 2026-11-20.
