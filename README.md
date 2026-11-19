@@ -70,7 +70,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Termination Lag](2026/2611.14960-termination-lag/) (arXiv:2611.14960) | Table 1 Context growth row in red; source comment says the values are means, caption says medians | [Answered](https://github.com/musacim/termination-lag/issues/1): the row is medians, the TODO comment is stale |
 | [MemInStream](2026/2611.15640-meminstream/) (arXiv:2611.15640) | Text says StreamForest is the best online model in all four categories; Table 2 has JoyAI ahead on State Tracking & Updating, 43.9 vs 37.1 | [Asked the authors](https://github.com/HKUST-LongGroup/MemInStream/issues/1) |
 | [HINT-WAM](2026/2611.24789-hint-wam/) (arXiv:2611.24789) | Table 6 velocity-matching row: 6.16 / 1.59 = 3.87 but t = 3.62; 48 vs. 17 gives sign-test p 0.00015, reported 0.00042; three LIBERO-90 rates not k/4500 | [Asked the authors](https://github.com/tuandattt/hintwam_code/issues/2) |
-| [RoughCut-Bench](2026/2611.24098-roughcut-bench/) (arXiv:2611.24098) | Table 3: 6 of 8 RM→R rates not k/191 (191 pooled pairs); Qwen3.5-Plus D F1 0.543 vs 0.553 from its P and R | Not yet asked |
+| [RoughCut-Bench](2026/2611.24098-roughcut-bench/) (arXiv:2611.24098) | Table 3: 6 of 8 RM→R rates not k/191 (191 pooled pairs); Qwen3.5-Plus D F1 0.543 vs 0.553 from its P and R | [Asked the authors](https://github.com/Whalesong-zrs/RoughCut-Bench/issues/1) |
 
 ## How each audit works
 
