@@ -26,4 +26,4 @@ The script downloads arXiv 2611.24789v1, checks its hash, quotes Table 6 and the
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/tuandattt/hintwam_code/issues/2) on 2026-11-20.
