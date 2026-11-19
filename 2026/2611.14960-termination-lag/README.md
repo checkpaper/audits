@@ -27,3 +27,5 @@ The script downloads the arXiv PDF and source, and the released ctx_growth.py at
 ## Status
 
 [Asked the authors](https://github.com/musacim/termination-lag/issues/1) on 2026-11-19.
+
+Author reply (2026-11-19): the TODO comment is outdated and the row already reports medians. The trajectories are public on Hugging Face ([musacim/termination-lag-trajectories](https://huggingface.co/datasets/musacim/termination-lag-trajectories), which returned 401 when we first checked), and `scripts/from_hf.py` and `scripts/reproduce_table.py` recompute the table.

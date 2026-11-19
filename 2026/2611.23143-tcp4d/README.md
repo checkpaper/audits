@@ -26,3 +26,5 @@ The script downloads arXiv 2611.23143v1, checks its hash, quotes the abstract an
 ## Status
 
 [Asked the authors](https://github.com/Livioni/TCP4D/issues/1) on 2026-11-19.
+
+Author reply (2026-11-19): the abstract and introduction report the larger of the two target-robot gains, 41.5 points on ARX-X5.
