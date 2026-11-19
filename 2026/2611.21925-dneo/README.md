@@ -26,4 +26,4 @@ The script downloads arXiv 2611.21925v1, checks its hash, quotes Sec. 5.3, Sec. 
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/J-sandler/DNeo/issues/3) on 2026-11-20.
