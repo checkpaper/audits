@@ -69,6 +69,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [TCP4D](2026/2611.23143-tcp4d/) (arXiv:2611.23143) | Abstract 41.5% target-robot gain is ARX-X5 alone; UR5-WSG +7.0 points, mean of both +24.25 | [Answered](https://github.com/Livioni/TCP4D/issues/1): 41.5 is the larger of the two gains |
 | [Termination Lag](2026/2611.14960-termination-lag/) (arXiv:2611.14960) | Table 1 Context growth row in red; source comment says the values are means, caption says medians | [Answered](https://github.com/musacim/termination-lag/issues/1): the row is medians, the TODO comment is stale |
 | [MemInStream](2026/2611.15640-meminstream/) (arXiv:2611.15640) | Text says StreamForest is the best online model in all four categories; Table 2 has JoyAI ahead on State Tracking & Updating, 43.9 vs 37.1 | [Asked the authors](https://github.com/HKUST-LongGroup/MemInStream/issues/1) |
+| [HINT-WAM](2026/2611.24789-hint-wam/) (arXiv:2611.24789) | Table 6 velocity-matching row: 6.16 / 1.59 = 3.87 but t = 3.62; 48 vs. 17 gives sign-test p 0.00015, reported 0.00042; three LIBERO-90 rates not k/4500 | Not yet asked |
 
 ## How each audit works
 
