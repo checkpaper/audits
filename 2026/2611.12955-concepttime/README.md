@@ -26,4 +26,4 @@ The script downloads arXiv 2611.12955v1, checks its hash, quotes Table 1 and Sec
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/Sachithx/ConceptTime/issues/2) on 2026-11-21.
