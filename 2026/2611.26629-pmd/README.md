@@ -25,4 +25,6 @@ The script downloads arXiv 2611.26629v1, checks its hash, quotes the passages an
 
 ## Status
 
-[Asked the authors](https://github.com/yesiltepe-hidir/PMD/issues/1) on 2026-11-21.
+Answered. [Asked the authors](https://github.com/yesiltepe-hidir/PMD/issues/1) on 2026-11-21.
+
+The author (yesiltepe-hidir) replied on 2026-11-21 and closed the issue as completed: "The 17.47 score is obtained using the coarse-only tilt direction, whereas the main paper reports results using a combination of coarse and isotropic directions." The authors plan to update the paper within a week and add the coarse-only score to the main table. We noted that the p. 19 hyperparameter table lists coarse tilt probes for FLUX.2, and that Table 2's diversity scores equal the coarse-only row of Table 5.
