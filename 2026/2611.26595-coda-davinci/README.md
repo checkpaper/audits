@@ -5,7 +5,7 @@ Table 2's G1/PE1 row of P1 − P0 changes does not follow from the Table 1 avera
 ## Paper
 
 - Title: Coda-DaVinci: Reimagining Video Generation with Code2Video
-- arXiv: [2611.26595v1](https://arxiv.org/abs/2611.26595v1) (the version checked, sha256 `7d6bad4f…57ec4`)
+- arXiv: [2611.26595v1](https://arxiv.org/abs/2611.26595v1) (the version checked, sha256 `7d6bad4f…7ec4`)
 - Hugging Face: [papers/2611.26595](https://huggingface.co/papers/2611.26595)
 - Code: [FrankYang-17/Coda](https://github.com/FrankYang-17/Coda)
 - CheckPaper report: [checkpaper.app/r/xee3f99np4](https://checkpaper.app/r/xee3f99np4)

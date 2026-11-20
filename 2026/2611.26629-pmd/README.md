@@ -5,7 +5,7 @@ The default FLUX.2 PMD model has FID 24.12 on COCO-10k in Table 1 but 17.47 in t
 ## Paper
 
 - Title: Posterior Matching Distillation
-- arXiv: [2611.26629v1](https://arxiv.org/abs/2611.26629v1) (the version checked, sha256 `ce7b4026…bf94f`)
+- arXiv: [2611.26629v1](https://arxiv.org/abs/2611.26629v1) (the version checked, sha256 `ce7b4026…f94f`)
 - Hugging Face: [papers/2611.26629](https://huggingface.co/papers/2611.26629)
 - Code: [yesiltepe-hidir/PMD](https://github.com/yesiltepe-hidir/PMD)
 - CheckPaper report: [checkpaper.app/r/9479vs46qg](https://checkpaper.app/r/9479vs46qg)
