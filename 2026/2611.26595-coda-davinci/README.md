@@ -26,4 +26,4 @@ The script downloads arXiv 2611.26595v1, checks its hash, quotes the passages an
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/FrankYang-17/Coda/issues/1) on 2026-11-21.

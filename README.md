@@ -76,9 +76,9 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [LuthorSQL](2026/2611.17780-luthorsql/) (arXiv:2611.17780) | App. F: "330 questions" split as 279 + 121 = 400; "18% fewer logged tokens" is the tool-call row, caption says tokens were not lower | [Asked the authors](https://github.com/IAMIbrahimmemon/luthorsql/issues/2) |
 | [Glyph](2026/2611.08922-glyph/) (arXiv:2611.08922) | Intro pairs the Recent Phecode p-values with the all-history rates (and 2.93e-3 vs 1.95e-3); "33.8% cohort average" is the report row, Figure 2 total is 54.7% | [Asked the authors](https://github.com/StanfordMIMI/Glyph/issues/1) |
 | [CHORD](2026/2611.22668-chord/) (arXiv:2611.22668) | CelebA target-only WGA 84.27 in Tables 4-5 vs. 82.39 in the Discussion, same setup and CHORD 89.06; 84.27 is also the NSF baseline in Table 1 | [Answered](https://github.com/davelee-uestc/chord_debiasing_public/issues/2): 84.27 is the NSF result |
-| [PMD](2026/2611.26629-pmd/) (arXiv:2611.26629) | Default FLUX.2 model: FID 24.12 in Table 1 vs. 17.47 in the Table 5 row that matches its Table 2 diversity scores | Not yet asked |
-| [AnyS1](2026/2611.23751-anys1/) (arXiv:2611.23751) | "More than fourfold" holds only on ALFWorld (Table 5: 1.18×, 4.21×, 1.92×); Table 4 bolds 83.8 while 85.9 is the Dev best | Not yet asked |
-| [Coda-DaVinci](2026/2611.26595-coda-davinci/) (arXiv:2611.26595) | Table 2 G1/PE1 changes differ from Table 1 averages; N falls 1.968 → 1.950 against "improves under every comparison" | Not yet asked |
+| [PMD](2026/2611.26629-pmd/) (arXiv:2611.26629) | Default FLUX.2 model: FID 24.12 in Table 1 vs. 17.47 in the Table 5 row that matches its Table 2 diversity scores | [Asked the authors](https://github.com/yesiltepe-hidir/PMD/issues/1) |
+| [AnyS1](2026/2611.23751-anys1/) (arXiv:2611.23751) | "More than fourfold" holds only on ALFWorld (Table 5: 1.18×, 4.21×, 1.92×); Table 4 bolds 83.8 while 85.9 is the Dev best | [Asked the authors](https://github.com/middle-chunjie/AnyS1/issues/2) |
+| [Coda-DaVinci](2026/2611.26595-coda-davinci/) (arXiv:2611.26595) | Table 2 G1/PE1 changes differ from Table 1 averages; N falls 1.968 → 1.950 against "improves under every comparison" | [Asked the authors](https://github.com/FrankYang-17/Coda/issues/1) |
 
 ## How each audit works
 
