@@ -25,4 +25,4 @@ The script downloads arXiv 2611.13425v1, checks its hash, quotes the passages an
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/moeinheidari7829/P2Echo/issues/2) on 2026-11-21.

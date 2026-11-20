@@ -27,4 +27,4 @@ The script downloads arXiv 2611.14516v1, checks its hash, quotes the passages an
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/alexshtf/torchcurves/issues/71) on 2026-11-21.
