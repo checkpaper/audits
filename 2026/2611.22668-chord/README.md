@@ -25,4 +25,4 @@ The script downloads arXiv 2611.22668v1, checks its hash, and quotes Tables 1, 4
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/davelee-uestc/chord_debiasing_public/issues/2) on 2026-11-20.

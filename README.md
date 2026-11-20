@@ -75,7 +75,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [CriticNPU](2026/2611.24733-criticnpu/) (arXiv:2611.24733) | App. E.1: CMA-ES decode win rate "0–3 of 16" is its prefill row (decode 81 of 96); App. E.3 "within 5%" vs. −23% TPOT in Table 12 | [Asked the authors](https://github.com/bruno686/CriticNPU/issues/1) |
 | [LuthorSQL](2026/2611.17780-luthorsql/) (arXiv:2611.17780) | App. F: "330 questions" split as 279 + 121 = 400; "18% fewer logged tokens" is the tool-call row, caption says tokens were not lower | [Asked the authors](https://github.com/IAMIbrahimmemon/luthorsql/issues/2) |
 | [Glyph](2026/2611.08922-glyph/) (arXiv:2611.08922) | Intro pairs the Recent Phecode p-values with the all-history rates (and 2.93e-3 vs 1.95e-3); "33.8% cohort average" is the report row, Figure 2 total is 54.7% | [Asked the authors](https://github.com/StanfordMIMI/Glyph/issues/1) |
-| [CHORD](2026/2611.22668-chord/) (arXiv:2611.22668) | CelebA target-only WGA 84.27 in Tables 4-5 vs. 82.39 in the Discussion, same setup and CHORD 89.06; 84.27 is also the NSF baseline in Table 1 | Not yet asked |
+| [CHORD](2026/2611.22668-chord/) (arXiv:2611.22668) | CelebA target-only WGA 84.27 in Tables 4-5 vs. 82.39 in the Discussion, same setup and CHORD 89.06; 84.27 is also the NSF baseline in Table 1 | [Asked the authors](https://github.com/davelee-uestc/chord_debiasing_public/issues/2) |
 
 ## How each audit works
 
