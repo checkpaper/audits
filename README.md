@@ -79,6 +79,8 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [PMD](2026/2611.26629-pmd/) (arXiv:2611.26629) | Default FLUX.2 model: FID 24.12 in Table 1 vs. 17.47 in the Table 5 row that matches its Table 2 diversity scores | [Answered](https://github.com/yesiltepe-hidir/PMD/issues/1): 17.47 is coarse-only |
 | [AnyS1](2026/2611.23751-anys1/) (arXiv:2611.23751) | "More than fourfold" holds only on ALFWorld (Table 5: 1.18×, 4.21×, 1.92×); Table 4 bolds 83.8 while 85.9 is the Dev best | [Asked the authors](https://github.com/middle-chunjie/AnyS1/issues/2) |
 | [Coda-DaVinci](2026/2611.26595-coda-davinci/) (arXiv:2611.26595) | Table 2 G1/PE1 changes differ from Table 1 averages; N falls 1.968 → 1.950 against "improves under every comparison" | [Asked the authors](https://github.com/FrankYang-17/Coda/issues/1) |
+| [TorchCurves](2026/2611.14516-torchcurves/) (arXiv:2611.14516) | B-spline P = \|knots\| − degree + 1 and degree + 2 non-zero bases vs. − 1 and + 1; KAN [16, W, W, 1] in text vs. [32, W, W, 1] in Fig. 4 | Not yet asked |
+| [P2Echo](2026/2611.13425-p2echo/) (arXiv:2611.13425) | Speed-up range 4.28–159.36× vs. 168.09× for Grounding DINO-US-SAM in Table VII | Not yet asked |
 
 ## How each audit works
 
