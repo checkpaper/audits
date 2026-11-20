@@ -26,4 +26,6 @@ The script downloads arXiv 2611.24789v1, checks its hash, quotes Table 6 and the
 
 ## Status
 
-[Asked the authors](https://github.com/tuandattt/hintwam_code/issues/2) on 2026-11-20.
+Answered. [Asked the authors](https://github.com/tuandattt/hintwam_code/issues/2) on 2026-11-20.
+
+The author (tuandattt) replied on 2026-11-20 and confirmed both points: the Table 6 row should read t = 3.87 and p = 0.00015, and the three rates were rounding mistakes, correct values 76.69 (Table 2), 80.62 (Sec. 4.3) and 80.73 (Sec. 6), all from 90 tasks × 50 trials. These are 3,451, 3,628 and 3,633 successes out of 4,500. The authors will fix them in the next version.

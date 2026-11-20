@@ -28,3 +28,4 @@ The script downloads arXiv 2611.22668v1, checks its hash, and quotes Tables 1, 4
 Answered. [Asked the authors](https://github.com/davelee-uestc/chord_debiasing_public/issues/2) on 2026-11-20.
 
 The author (davelee-uestc) replied on 2026-11-20: "82.39% is the target-only result from our released checkpoint, used in the paired Discussion experiment. In Tables 4–5, we use the higher, previously reported NSF result of 84.27% to avoid overstating CHORD's improvement. The two values therefore correspond to different checkpoint settings." The paper does not say this in Tables 4 and 5; we suggested adding it to the captions.
+The author closed the issue as completed on 2026-11-20.
