@@ -89,6 +89,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [WeightBench](2026/2611.18553-weightbench/) (arXiv:2611.18553) | Two samples on 42 tasks vs. 78/77/77 Claude runs; (29 + 30) × 3 = 177 red-team runs vs. 180 | [Answered](https://github.com/Aayush-Marasini/WeightBench/issues/5): 7 GPU tasks ran once; a 30th non-cheat scenario; wording to be fixed |
 | [PACT](2026/2611.24075-pact/) (arXiv:2611.24075) | App. C.1 "replay ahead by 1.54" on WISDM vs. Table 4 PACT ahead (0.8775 vs 0.8621); "three seeds" vs. two for WISDM and UCI-HAR | [Asked the authors](https://github.com/Sachithx/PACT/issues/1) |
 | [Sable](2026/2611.14083-sable/) (arXiv:2611.14083) | Two extra passes "about 25% of the proving time" vs. 8.2–12.5% saved by the per-layer reduction in Table 10 | [Asked the authors](https://github.com/moonmath-ai/Sable/issues/2) |
+| [MS-HVED](2026/2611.21412-ms-hved/) (arXiv:2611.21412) | Introduction: better SSIM "over the baselines" on paired real data vs. Naive + FOV .841 > MS-HVED .835 in Table 6 | Not yet asked |
 
 ## How each audit works
 
