@@ -26,4 +26,6 @@ The script downloads arXiv 2611.23751v1, checks its hash, quotes the passages an
 
 ## Status
 
-[Asked the authors](https://github.com/middle-chunjie/AnyS1/issues/2) on 2026-11-21.
+Answered. [Asked the authors](https://github.com/middle-chunjie/AnyS1/issues/2) on 2026-11-21.
+
+The first author replied on 2026-11-21 and closed the issue: both points are correct. "More than fourfold" was meant for ALFWorld only (4.2×); the sentence will be scoped to ALFWorld and the SOPBench and WebShop ratios (1.2×, 1.9×) reported. In Table 4 the bold moves to 85.9 (zero-shot Qwen3.5-27B), with 83.8 underlined as the best 4B model. Both fixes go into the next arXiv version.
