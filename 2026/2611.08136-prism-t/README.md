@@ -20,7 +20,7 @@ Proposition 1 splits the score gap exactly into a covariance part and a mean par
    | w/o Act. | 110.56 | 4.17 | 114.73 | 114.82 |
    | PRISM-T | 60.58 | 29.33 | 89.91 | 91.50 |
 
-   The G, Gcov and Gmean rows add up to within 0.01 in all three columns, so the gap is in the ∆ rows only. Rerunning the released code gives ∆mean 4.26 and 30.91 for the last two columns, which would close both gaps.
+   The G, Gcov and Gmean rows add up to within 0.01 in all three columns, so the gap is in the ∆ rows only. The linked report reran the released code and got ∆mean 4.26 and 30.91 for the last two columns, which would close both gaps.
 
 ## Reproduce
 
