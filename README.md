@@ -87,8 +87,8 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [TPHC](2026/2611.23026-tphc/) (arXiv:2611.23026) | Loss "0.4–1.7% below mHC-TFA" vs. 0.41–0.73% in Table 1 | [Asked the authors](https://github.com/wuyou2002/TPHC/issues/2) |
 | [PGPO](2026/2611.23236-pgpo/) (arXiv:2611.23236) | "All obfuscation methods cut attack success by over 50%" vs. 48–49% cuts on Amazon-Book in Table 4, PGPO included | [Asked the authors](https://github.com/Shengxiang-Lin/PGPO/issues/12) |
 | [WeightBench](2026/2611.18553-weightbench/) (arXiv:2611.18553) | Two samples on 42 tasks vs. 78/77/77 Claude runs; (29 + 30) × 3 = 177 red-team runs vs. 180 | [Asked the authors](https://github.com/Aayush-Marasini/WeightBench/issues/5) |
-| [PACT](2026/2611.24075-pact/) (arXiv:2611.24075) | App. C.1 "replay ahead by 1.54" on WISDM vs. Table 4 PACT ahead (0.8775 vs 0.8621); "three seeds" vs. two for WISDM and UCI-HAR | Not yet asked |
-| [Sable](2026/2611.14083-sable/) (arXiv:2611.14083) | Two extra passes "about 25% of the proving time" vs. 8.2–12.5% saved by the per-layer reduction in Table 10 | Not yet asked |
+| [PACT](2026/2611.24075-pact/) (arXiv:2611.24075) | App. C.1 "replay ahead by 1.54" on WISDM vs. Table 4 PACT ahead (0.8775 vs 0.8621); "three seeds" vs. two for WISDM and UCI-HAR | [Asked the authors](https://github.com/Sachithx/PACT/issues/1) |
+| [Sable](2026/2611.14083-sable/) (arXiv:2611.14083) | Two extra passes "about 25% of the proving time" vs. 8.2–12.5% saved by the per-layer reduction in Table 10 | [Asked the authors](https://github.com/moonmath-ai/Sable/issues/2) |
 
 ## How each audit works
 

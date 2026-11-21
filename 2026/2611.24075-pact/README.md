@@ -26,4 +26,4 @@ The script downloads arXiv 2611.24075v1, checks its hash, quotes Sec. 4.1, App. 
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/Sachithx/PACT/issues/1) on 2026-11-22.

@@ -25,4 +25,4 @@ The script downloads arXiv 2611.14083v1, checks its hash, quotes the claim and T
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/moonmath-ai/Sable/issues/2) on 2026-11-22.
