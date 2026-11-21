@@ -25,4 +25,4 @@ The script downloads arXiv 2611.21412v1, checks its hash, quotes the Introductio
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/cai4cai/ms-hved/issues/1) on 2026-11-22.
