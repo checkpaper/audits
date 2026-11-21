@@ -25,4 +25,6 @@ The script downloads arXiv 2611.21479v1, checks its hash, quotes Table 3, and re
 
 ## Status
 
-[Asked the authors](https://github.com/LynnReal-AI/LynnReal/issues/3) on 2026-11-19.
+Answered. [Asked the authors](https://github.com/LynnReal-AI/LynnReal/issues/3) on 2026-11-19.
+
+An author replied on 2026-11-21: the latency column is the median (P50) over 501 timed 17-frame chunks, while FPS is total frames over total decoding time. For StreamRender2 the two-latent streaming schedule makes the work per chunk uneven, so the median (157.65 ms) and mean (137.19 ms) differ; 8,517 frames / 68.733 s = 123.91 FPS, consistent with the mean. They will label the statistic and define FPS in the caption.
