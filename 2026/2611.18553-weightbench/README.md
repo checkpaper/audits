@@ -26,4 +26,4 @@ The script downloads arXiv 2611.18553v1, checks its hash, quotes Sec. 5, Table 1
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/Aayush-Marasini/WeightBench/issues/5) on 2026-11-22.

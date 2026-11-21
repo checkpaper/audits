@@ -25,4 +25,4 @@ The script downloads arXiv 2611.23236v1, checks its hash, quotes Sec. 5.2 and Ta
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/Shengxiang-Lin/PGPO/issues/12) on 2026-11-22.
