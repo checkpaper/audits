@@ -25,4 +25,4 @@ The script downloads arXiv 2611.23026v1, checks its hash, quotes Sec. 4.1 and Ta
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/wuyou2002/TPHC/issues/2) on 2026-11-22.
