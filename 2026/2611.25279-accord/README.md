@@ -28,3 +28,5 @@ The script downloads arXiv 2611.25279v1, checks its hash, quotes App. D and Tabl
 Answered. [Asked the authors](https://github.com/be2rlab/ACCORD/issues/3) on 2026-11-22.
 
 The first author replied on 2026-11-21: App. D omits the full rule, under which a difference within 5 mm counts as a tie that goes to the larger noise. Unrounded, walks ×1 give 0.1545 m and ×3 0.1589 m (4.4 mm apart), so ×3 was taken. Their per-sequence values (exp14, exp05, exp11, exp07, exp15) reproduce the three means. We asked which walk setting the densities row (×1 = 0.167 m) uses.
+
+Follow-up reply on 2026-11-21: the densities row was run with the dataset's first-configuration walks (1e-3 and 5e-5), so its ×1 cell (0.167 m) matches none of the walk cells; the walks row was then run with the chosen densities. The released `config/hilti/kalibr_imu_chain.yaml` uses densities 1.42e-3 / 2.44e-4 and walks 5.58e-4 / 1.26e-5. The authors plan to fix the App. D wording and the Tab. 13 caption in the next arXiv version.
