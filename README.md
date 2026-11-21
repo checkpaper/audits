@@ -84,6 +84,9 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [ConceptTime](2026/2611.12955-concepttime/) (arXiv:2611.12955) | Margins over interpretable methods "from 1.5 points" vs. 0.74 and 1.33 over TOTEM on HAR; EntroPE gaps "4.5–8.5" vs. 3.03–10.76 | [Answered](https://github.com/Sachithx/ConceptTime/issues/2): ranges are illustrative full-shot comparisons, Table 1 unchanged |
 | [PRISM-T](2026/2611.08136-prism-t/) (arXiv:2611.08136) | Table 7: ∆cov + ∆mean = 89.91 vs. ∆ = 91.50 (PRISM-T), 114.73 vs. 114.82 (w/o Act.) | [Asked the authors](https://github.com/ideal-lab-sejong/PRISM_T/issues/2) |
 | [Accord](2026/2611.25279-accord/) (arXiv:2611.25279) | App. D takes the IMU noise "with the lowest mean error" (walks ×3, 0.159 m), but Table 13 lists walks ×1 at 0.154 m | [Answered](https://github.com/be2rlab/ACCORD/issues/3): unstated 5 mm tie rule favours larger noise, so ×3 |
+| [TPHC](2026/2611.23026-tphc/) (arXiv:2611.23026) | Loss "0.4–1.7% below mHC-TFA" vs. 0.41–0.73% in Table 1 | Not yet asked |
+| [PGPO](2026/2611.23236-pgpo/) (arXiv:2611.23236) | "All obfuscation methods cut attack success by over 50%" vs. 48–49% cuts on Amazon-Book in Table 4, PGPO included | Not yet asked |
+| [WeightBench](2026/2611.18553-weightbench/) (arXiv:2611.18553) | Two samples on 42 tasks vs. 78/77/77 Claude runs; (29 + 30) × 3 = 177 red-team runs vs. 180 | Not yet asked |
 
 ## How each audit works
 
