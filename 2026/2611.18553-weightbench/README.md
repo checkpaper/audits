@@ -26,4 +26,6 @@ The script downloads arXiv 2611.18553v1, checks its hash, quotes Sec. 5, Table 1
 
 ## Status
 
-[Asked the authors](https://github.com/Aayush-Marasini/WeightBench/issues/5) on 2026-11-22.
+Answered. [Asked the authors](https://github.com/Aayush-Marasini/WeightBench/issues/5) on 2026-11-22.
+
+The first author replied on 2026-11-21: "two samples per task" is imprecise. The 35 CPU tasks have two samples per Claude model (70 runs); the 7 GPU tasks ran once per model, giving 77 for Sonnet and Opus, and Haiku has one extra sample on TR02-LOOP-001 (78). The red-team array has 30 scenarios, 29 cheats plus one non-cheat (elementwise_update), so 30 × 3 + 30 controls × 3 = 180. Both will be reworded in the next version.
