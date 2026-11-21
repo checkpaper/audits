@@ -25,4 +25,4 @@ The script downloads arXiv 2611.25279v1, checks its hash, quotes App. D and Tabl
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/be2rlab/ACCORD/issues/3) on 2026-11-22.

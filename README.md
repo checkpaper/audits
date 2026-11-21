@@ -83,7 +83,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [P2Echo](2026/2611.13425-p2echo/) (arXiv:2611.13425) | Speed-up range 4.28–159.36× vs. 168.09× for Grounding DINO-US-SAM in Table VII | [Asked the authors](https://github.com/moeinheidari7829/P2Echo/issues/2) |
 | [ConceptTime](2026/2611.12955-concepttime/) (arXiv:2611.12955) | Margins over interpretable methods "from 1.5 points" vs. 0.74 and 1.33 over TOTEM on HAR; EntroPE gaps "4.5–8.5" vs. 3.03–10.76 | [Answered](https://github.com/Sachithx/ConceptTime/issues/2): ranges are illustrative full-shot comparisons, Table 1 unchanged |
 | [PRISM-T](2026/2611.08136-prism-t/) (arXiv:2611.08136) | Table 7: ∆cov + ∆mean = 89.91 vs. ∆ = 91.50 (PRISM-T), 114.73 vs. 114.82 (w/o Act.) | [Asked the authors](https://github.com/ideal-lab-sejong/PRISM_T/issues/2) |
-| [Accord](2026/2611.25279-accord/) (arXiv:2611.25279) | App. D takes the IMU noise "with the lowest mean error" (walks ×3, 0.159 m), but Table 13 lists walks ×1 at 0.154 m | Not yet asked |
+| [Accord](2026/2611.25279-accord/) (arXiv:2611.25279) | App. D takes the IMU noise "with the lowest mean error" (walks ×3, 0.159 m), but Table 13 lists walks ×1 at 0.154 m | [Asked the authors](https://github.com/be2rlab/ACCORD/issues/3) |
 
 ## How each audit works
 
