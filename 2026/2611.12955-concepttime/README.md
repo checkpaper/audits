@@ -26,4 +26,6 @@ The script downloads arXiv 2611.12955v1, checks its hash, quotes Table 1 and Sec
 
 ## Status
 
-[Asked the authors](https://github.com/Sachithx/ConceptTime/issues/2) on 2026-11-21.
+Answered. [Asked the authors](https://github.com/Sachithx/ConceptTime/issues/2) on 2026-11-21.
+
+The first author replied on 2026-11-21: both ranges are illustrative comparisons, not bounds over every column. The 1.5 points is Epilepsy full-shot against ProSeNet (98.39 vs. 96.91) and the 30 points is UCI-HAR full-shot against catch22; the 4.5–8.5 points come from the full-shot UCI-HAR and Epilepsy columns against EntroPE. They agree that smaller margins exist at UCI-HAR 1% and 5%; the Table 1 results are unchanged.
