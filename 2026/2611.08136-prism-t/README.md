@@ -33,4 +33,4 @@ The script downloads arXiv 2611.08136v1, checks its hash, quotes Proposition 1 a
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/ideal-lab-sejong/PRISM_T/issues/2) on 2026-11-21.

@@ -82,7 +82,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [TorchCurves](2026/2611.14516-torchcurves/) (arXiv:2611.14516) | B-spline P = \|knots\| − degree + 1 and degree + 2 non-zero bases vs. − 1 and + 1; KAN [16, W, W, 1] in text vs. [32, W, W, 1] in Fig. 4 | [Asked the authors](https://github.com/alexshtf/torchcurves/issues/71) |
 | [P2Echo](2026/2611.13425-p2echo/) (arXiv:2611.13425) | Speed-up range 4.28–159.36× vs. 168.09× for Grounding DINO-US-SAM in Table VII | [Asked the authors](https://github.com/moeinheidari7829/P2Echo/issues/2) |
 | [ConceptTime](2026/2611.12955-concepttime/) (arXiv:2611.12955) | Margins over interpretable methods "from 1.5 points" vs. 0.74 and 1.33 over TOTEM on HAR; EntroPE gaps "4.5–8.5" vs. 3.03–10.76 | [Asked the authors](https://github.com/Sachithx/ConceptTime/issues/2) |
-| [PRISM-T](2026/2611.08136-prism-t/) (arXiv:2611.08136) | Table 7: ∆cov + ∆mean = 89.91 vs. ∆ = 91.50 (PRISM-T), 114.73 vs. 114.82 (w/o Act.) | Not yet asked |
+| [PRISM-T](2026/2611.08136-prism-t/) (arXiv:2611.08136) | Table 7: ∆cov + ∆mean = 89.91 vs. ∆ = 91.50 (PRISM-T), 114.73 vs. 114.82 (w/o Act.) | [Asked the authors](https://github.com/ideal-lab-sejong/PRISM_T/issues/2) |
 
 ## How each audit works
 
