@@ -15,7 +15,7 @@ quote(doc, 2, "On paired real healthy-control")
 quote(doc, 3, "MS-HVED improves perceptual quality and structural similarity over the baselines")
 
 print("\nSec. 5.2.1 (p. 10)")
-quote(doc, 10, "the FOV-weighted stack average achieved the high- est PSNR, SSIM, and NCC")
+quote(doc, 10, "the FOV-weighted stack average achieved the high")
 
 print("\nTable 6 (p. 14): PSNR, SSIM, NCC, Percept. on the 7 paired real cases")
 rows = {
