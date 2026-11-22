@@ -34,4 +34,6 @@ The script downloads arXiv 2611.12875v1, checks its hash and quotes the four tab
 
 ## Status
 
-[Asked the authors](https://github.com/UVA-Computer-Vision-Lab/click3r/issues/1) on 2026-11-23.
+Answered. [Asked the authors](https://github.com/UVA-Computer-Vision-Lab/click3r/issues/1) on 2026-11-23.
+
+An author replied on 2026-11-22 (and closed the issue): the tables were run on different GPU types, which give slightly different results; within each table all rows used the same GPU type, so prompted rows should be compared with the no-click row of the same table. The paper does not state which GPU each table used.
