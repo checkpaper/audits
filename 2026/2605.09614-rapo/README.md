@@ -26,4 +26,4 @@ The script downloads arXiv 2605.09614v1, checks its hash, quotes Table 10, App. 
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/coder-gx/RAPO/issues/1) on 2026-11-23.

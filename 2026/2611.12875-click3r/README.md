@@ -34,4 +34,4 @@ The script downloads arXiv 2611.12875v1, checks its hash and quotes the four tab
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/UVA-Computer-Vision-Lab/click3r/issues/1) on 2026-11-23.

@@ -90,9 +90,9 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [PACT](2026/2611.24075-pact/) (arXiv:2611.24075) | App. C.1 "replay ahead by 1.54" on WISDM vs. Table 4 PACT ahead (0.8775 vs 0.8621); "three seeds" vs. two for WISDM and UCI-HAR | [Asked the authors](https://github.com/Sachithx/PACT/issues/1) |
 | [Sable](2026/2611.14083-sable/) (arXiv:2611.14083) | Two extra passes "about 25% of the proving time" vs. 8.2–12.5% saved by the per-layer reduction in Table 10 | [Asked the authors](https://github.com/moonmath-ai/Sable/issues/2) |
 | [MS-HVED](2026/2611.21412-ms-hved/) (arXiv:2611.21412) | Introduction: better SSIM "over the baselines" on paired real data vs. Naive + FOV .841 > MS-HVED .835 in Table 6 | [Asked the authors](https://github.com/cai4cai/ms-hved/issues/1) |
-| [RAPO](2026/2605.09614-rapo/) (arXiv:2605.09614) | App. G.3 gives RAPO's greedy–stochastic gap as 11.46, Table 10 gives 43.01 − 31.41 = 11.60; Table 12 (temperature 0.6) repeats the Table 1 Base row | Not yet asked |
-| [Click3R](2026/2611.12875-click3r/) (arXiv:2611.12875) | No-click results differ across tables on the same pairs: 55.3 / 50.8 / 36.2 (Tables 2, 3) vs. 55.9 / 49.4 / 35.6 (Tables 11, 12) | Not yet asked |
-| [AURA](2026/2611.26540-aura/) (arXiv:2611.26540) | AURA 1.3B called 576p in the text, 480p in Tables 1 and 2; 30,000 clips × 4.8 s = 40.0 h vs. 38.7 h | Not yet asked |
+| [RAPO](2026/2605.09614-rapo/) (arXiv:2605.09614) | App. G.3 gives RAPO's greedy–stochastic gap as 11.46, Table 10 gives 43.01 − 31.41 = 11.60; Table 12 (temperature 0.6) repeats the Table 1 Base row | [Asked the authors](https://github.com/coder-gx/RAPO/issues/1) |
+| [Click3R](2026/2611.12875-click3r/) (arXiv:2611.12875) | No-click results differ across tables on the same pairs: 55.3 / 50.8 / 36.2 (Tables 2, 3) vs. 55.9 / 49.4 / 35.6 (Tables 11, 12) | [Asked the authors](https://github.com/UVA-Computer-Vision-Lab/click3r/issues/1) |
+| [AURA](2026/2611.26540-aura/) (arXiv:2611.26540) | AURA 1.3B called 576p in the text, 480p in Tables 1 and 2; 30,000 clips × 4.8 s = 40.0 h vs. 38.7 h | [Asked the authors](https://github.com/kyutai-labs/aura/issues/1) |
 
 ## How each audit works
 

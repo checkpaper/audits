@@ -26,4 +26,4 @@ The script downloads arXiv 2611.26540v1, checks its hash, quotes the resolution 
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/kyutai-labs/aura/issues/1) on 2026-11-23.
