@@ -27,4 +27,4 @@ The script downloads arXiv 2611.23026v1, checks its hash, quotes Sec. 4.1 and Ta
 
 Answered. [Asked the authors](https://github.com/wuyou2002/TPHC/issues/2) on 2026-11-22.
 
-The first author replied on 2026-11-22: the range should read 0.4–0.7 0.000000or both training and validation loss; the 1.7% upper bound is a typo, to be fixed in a future revision.
+The first author replied on 2026-11-22: the range should read 0.4–0.7% for both training and validation loss; the 1.7% upper bound is a typo, to be fixed in a future revision.
