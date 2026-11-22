@@ -25,4 +25,6 @@ The script downloads arXiv 2611.23236v1, checks its hash, quotes Sec. 5.2 and Ta
 
 ## Status
 
-[Asked the authors](https://github.com/Shengxiang-Lin/PGPO/issues/12) on 2026-11-22.
+Answered. [Asked the authors](https://github.com/Shengxiang-Lin/PGPO/issues/12) on 2026-11-22.
+
+The first author replied on 2026-11-22: "over 50%" in Sec. 5.2 (iii) refers to exact-match inversion success (EM). In Table 4 every method's EM cut exceeds 50% on both datasets (smallest: InferDPT on Amazon-Book, 0.0988 to 0.0480, 51.4%); the partial-recovery metrics are the ones below 50%. They agree the wording should name EM.
