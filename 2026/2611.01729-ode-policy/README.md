@@ -26,4 +26,4 @@ The script downloads arXiv 2611.01729v1, checks its hash, quotes Sec. 9.3 and Ta
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/NTUMARS/ODE-POLICY/issues/4) on 2026-11-23.

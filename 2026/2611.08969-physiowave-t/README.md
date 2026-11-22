@@ -25,4 +25,4 @@ The script downloads arXiv 2611.08969v1, checks its hash and quotes the three st
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/ForeverBlue816/PhysioWave/issues/3) on 2026-11-23.
