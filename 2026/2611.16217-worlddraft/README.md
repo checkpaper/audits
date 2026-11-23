@@ -33,7 +33,7 @@ The script downloads arXiv 2611.16217v1, checks its hash, finds every quoted row
 
 ## Status
 
-Not yet contacted.
+[Asked the authors](https://github.com/KevinHuge/WorldDraft/issues/1) on 2026-11-23.
 
 ## Author response
 

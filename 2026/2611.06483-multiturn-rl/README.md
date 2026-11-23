@@ -29,7 +29,7 @@ The script downloads the v1 PDF and the v1 source archive, checks both hashes, p
 
 ## Status
 
-Asked the authors by email on 2026-11-11.
+[Asked the authors](https://github.com/GaryStack/Rethinking-Agent-RL/issues/1) on 2026-11-23. Asked the authors by email on 2026-11-11.
 
 ## Author response
 

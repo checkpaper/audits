@@ -27,7 +27,7 @@ The script downloads arXiv 2611.14309v1, checks its hash, checks the hash of the
 
 ## Status
 
-Asked the authors by email on 2026-11-13.
+[Asked the authors](https://github.com/mmdm-benchmark/mmdm/issues/1) on 2026-11-23. Asked the authors by email on 2026-11-13.
 
 ## Author response
 

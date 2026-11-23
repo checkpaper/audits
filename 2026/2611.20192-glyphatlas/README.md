@@ -25,4 +25,4 @@ The script downloads arXiv 2611.20192v1, checks its hash, quotes the passages ab
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/Fr0zenCrane/GlyphAtlas/issues/1) on 2026-11-23.

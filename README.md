@@ -95,13 +95,13 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [AURA](2026/2611.26540-aura/) (arXiv:2611.26540) | AURA 1.3B called 576p in the text, 480p in Tables 1 and 2; 30,000 clips × 4.8 s = 40.0 h vs. 38.7 h | [Asked the authors](https://github.com/kyutai-labs/aura/issues/1) |
 | [PhysioWave-T](2026/2611.08969-physiowave-t/) (arXiv:2611.08969) | Introduction credits RALF with 78.9 % event sensitivity; Abstract and Sec. 5.5 give 74.4 % for RALF and 78.9 % for weighted-logit fusion | [Asked the authors](https://github.com/ForeverBlue816/PhysioWave/issues/3) |
 | [ODE Policy](2026/2611.01729-ode-policy/) (arXiv:2611.01729) | Sec. 9.3 baseline 95.0 / 92.8 is the "No offset" row, default is 94.8 / 94.3; Table S5 ratio 2.97 vs. 10.9 / 4.02 = 2.71 | [Answered](https://github.com/NTUMARS/ODE-POLICY/issues/4): both confirmed; Table S5 ratio is a per-trial mean |
-| [WorldDraft](2026/2611.16217-worlddraft/) (arXiv:2611.16217) | Table 2 Primer and Text PE rows equal the base rows × 1.050 / × 1.020 on five metrics; Figure 12 × 1.050 | Not yet asked |
-| [Multi-turn RL](2026/2611.06483-multiturn-rl/) (arXiv:2611.06483) | LaTeX comments say Figures 2, 3 and 6 are synthetic design previews | Not yet asked |
-| [MMDM](2026/2611.14309-mmdm/) (arXiv:2611.14309) | selection.json records an undescribed Jev 1.13.0 confidence filter that removed 1,015 items | Not yet asked |
-| [DeepMem throughput](2026/2611.05255-deepmem-throughput/) (arXiv:2611.05255) | DeepMem throughput equals the NR value minus 19,000 / 16,000 / 20,000 | Not yet asked |
-| [GlyphAtlas](2026/2611.20192-glyphatlas/) (arXiv:2611.20192) | Table 1 row mixes the Fixed and Random rows of Table S6; two cells match neither | Not yet asked |
-| [EvoMemState Figure 13](2026/2611.03743-evomemstate-fig13/) (arXiv:2611.03743) | Figure 13 bars are identical to Figure 3 under different labels | Not yet asked |
-| [WorldRuler](2026/2611.24869-worldruler/) (arXiv:2611.24869) | Habitat FCR values fit no single task count of at most 300 | Not yet asked |
+| [WorldDraft](2026/2611.16217-worlddraft/) (arXiv:2611.16217) | Table 2 Primer and Text PE rows equal the base rows × 1.050 / × 1.020 on five metrics; Figure 12 × 1.050 | [Asked the authors](https://github.com/KevinHuge/WorldDraft/issues/1) |
+| [Multi-turn RL](2026/2611.06483-multiturn-rl/) (arXiv:2611.06483) | LaTeX comments say Figures 2, 3 and 6 are synthetic design previews | [Asked the authors](https://github.com/GaryStack/Rethinking-Agent-RL/issues/1) |
+| [MMDM](2026/2611.14309-mmdm/) (arXiv:2611.14309) | selection.json records an undescribed Jev 1.13.0 confidence filter that removed 1,015 items | [Asked the authors](https://github.com/mmdm-benchmark/mmdm/issues/1) |
+| [DeepMem throughput](2026/2611.05255-deepmem-throughput/) (arXiv:2611.05255) | DeepMem throughput equals the NR value minus 19,000 / 16,000 / 20,000 | [Asked the authors](https://github.com/akhadangi/deepmem/issues/2) |
+| [GlyphAtlas](2026/2611.20192-glyphatlas/) (arXiv:2611.20192) | Table 1 row mixes the Fixed and Random rows of Table S6; two cells match neither | [Asked the authors](https://github.com/Fr0zenCrane/GlyphAtlas/issues/1) |
+| [EvoMemState Figure 13](2026/2611.03743-evomemstate-fig13/) (arXiv:2611.03743) | Figure 13 bars are identical to Figure 3 under different labels | [Asked the authors](https://github.com/XMUDeepLIT/EvoMemState/issues/2) |
+| [WorldRuler](2026/2611.24869-worldruler/) (arXiv:2611.24869) | Habitat FCR values fit no single task count of at most 300 | [Asked the authors](https://github.com/AlayaLab/WorldRuler/issues/1) |
 
 ## How each audit works
 

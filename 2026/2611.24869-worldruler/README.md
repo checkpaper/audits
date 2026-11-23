@@ -25,4 +25,4 @@ The script downloads arXiv 2611.24869v1, checks its hash, quotes the passages ab
 
 ## Status
 
-Not yet asked.
+[Asked the authors](https://github.com/AlayaLab/WorldRuler/issues/1) on 2026-11-23.
