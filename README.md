@@ -94,7 +94,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Click3R](2026/2611.12875-click3r/) (arXiv:2611.12875) | No-click results differ across tables on the same pairs: 55.3 / 50.8 / 36.2 (Tables 2, 3) vs. 55.9 / 49.4 / 35.6 (Tables 11, 12) | [Answered](https://github.com/UVA-Computer-Vision-Lab/click3r/issues/1): tables run on different GPU types; compare within each table |
 | [AURA](2026/2611.26540-aura/) (arXiv:2611.26540) | AURA 1.3B called 576p in the text, 480p in Tables 1 and 2; 30,000 clips × 4.8 s = 40.0 h vs. 38.7 h | [Asked the authors](https://github.com/kyutai-labs/aura/issues/1) |
 | [PhysioWave-T](2026/2611.08969-physiowave-t/) (arXiv:2611.08969) | Introduction credits RALF with 78.9 % event sensitivity; Abstract and Sec. 5.5 give 74.4 % for RALF and 78.9 % for weighted-logit fusion | [Asked the authors](https://github.com/ForeverBlue816/PhysioWave/issues/3) |
-| [ODE Policy](2026/2611.01729-ode-policy/) (arXiv:2611.01729) | Sec. 9.3 baseline 95.0 / 92.8 is the "No offset" row, default is 94.8 / 94.3; Table S5 ratio 2.97 vs. 10.9 / 4.02 = 2.71 | [Asked the authors](https://github.com/NTUMARS/ODE-POLICY/issues/4) |
+| [ODE Policy](2026/2611.01729-ode-policy/) (arXiv:2611.01729) | Sec. 9.3 baseline 95.0 / 92.8 is the "No offset" row, default is 94.8 / 94.3; Table S5 ratio 2.97 vs. 10.9 / 4.02 = 2.71 | [Answered](https://github.com/NTUMARS/ODE-POLICY/issues/4): both confirmed; Table S5 ratio is a per-trial mean |
 
 ## How each audit works
 

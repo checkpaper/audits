@@ -26,4 +26,6 @@ The script downloads arXiv 2611.01729v1, checks its hash, quotes Sec. 9.3 and Ta
 
 ## Status
 
-[Asked the authors](https://github.com/NTUMARS/ODE-POLICY/issues/4) on 2026-11-23.
+Answered. [Asked the authors](https://github.com/NTUMARS/ODE-POLICY/issues/4) on 2026-11-23.
+
+The first author replied on 2026-11-23 that both observations are correct. In Sec. 9.3, 79.2% is the default model of the main learning curves, while 95.0% and 92.8% are the "No offset" row of Table S8; the paragraph no longer exists in the current version, where the gripper is an ODE state by default. In Table S5, the ratio is the mean over trials of the per-trial boundary-to-inside ratio rather than the ratio of the two means; the two differ for DDIM-UNet because its boundary acceleration varies a lot across trials (10.9 ± 4.5). This will be stated in the next version.
