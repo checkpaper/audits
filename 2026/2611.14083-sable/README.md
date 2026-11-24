@@ -25,4 +25,6 @@ The script downloads arXiv 2611.14083v1, checks its hash, quotes the claim and T
 
 ## Status
 
-[Asked the authors](https://github.com/moonmath-ai/Sable/issues/2) on 2026-11-22.
+Answered. [Asked the authors](https://github.com/moonmath-ai/Sable/issues/2) on 2026-11-22.
+
+An author (Tomer-Solberg) replied on 2026-11-23 that the sentence on p. 32 is wrong: no measurement supports the 25%, which came closest to an earlier Nsight profile (8-layer, 16K proof, before the reduction) where the three rebuild passes took 26% of the time. Table 10 is the direct measurement (8.2 / 11.5 / 12.5% saved). v2 will state those figures. Our issue had swapped the 4×4K and 16K labels; the percentages were right.

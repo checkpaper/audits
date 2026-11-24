@@ -29,3 +29,5 @@ The script downloads arXiv 2611.24098v1, checks its hash, quotes the definitions
 Answered. [Asked the authors](https://github.com/Whalesong-zrs/RoughCut-Bench/issues/1) on 2026-11-20.
 
 The author (Whalesong-zrs) replied on 2026-11-20 and closed the issue as completed. All metrics pool TP, FP and FN over 10 repeated runs, and RM→R success divides the total successful pairs by the total evaluated pairs, so the denominator is up to 10 × 191 = 1,910, less any unevaluable outputs; v1 does not describe this. The Qwen entries in Table 3 were prepared incorrectly and will be corrected; other last-digit F1 differences come from rounding. The authors will update Table 3, document the protocol and effective denominators, and post the revised arXiv version.
+
+On 2026-11-23 the author posted the [updated paper](https://arxiv.org/abs/2611.24098).

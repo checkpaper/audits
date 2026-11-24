@@ -25,4 +25,6 @@ The script downloads arXiv 2611.08969v1, checks its hash and quotes the three st
 
 ## Status
 
-[Asked the authors](https://github.com/ForeverBlue816/PhysioWave/issues/3) on 2026-11-23.
+Answered. [Asked the authors](https://github.com/ForeverBlue816/PhysioWave/issues/3) on 2026-11-23.
+
+The authors replied on 2026-11-23 that 74.4% is the RALF value; the Introduction mistakenly gave the weighted-logit fusion result (78.9%) for RALF. The next version will report both in the abstract.
