@@ -25,4 +25,6 @@ The script downloads arXiv 2611.24869v1, checks its hash, quotes the passages ab
 
 ## Status
 
-[Asked the authors](https://github.com/AlayaLab/WorldRuler/issues/1) on 2026-11-23.
+Answered. [Asked the authors](https://github.com/AlayaLab/WorldRuler/issues/1) on 2026-11-23.
+
+The authors replied on 2026-11-23 that each component gets an integer score from 0 to 100, each sample is evaluated three times, and the reported values are means over evaluations and samples, not binary success rates. FCR uses 40 samples for Habitat and 5 for GTA-V (RSR: 200 and 100). With 120 scores per Habitat value the step is 1/120 of a point, so all reported values are reachable. Rounding and truncation were mixed; the revision will correct the descriptions and add the evaluation details and prompts.

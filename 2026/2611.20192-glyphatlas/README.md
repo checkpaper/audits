@@ -25,4 +25,6 @@ The script downloads arXiv 2611.20192v1, checks its hash, quotes the passages ab
 
 ## Status
 
-[Asked the authors](https://github.com/Fr0zenCrane/GlyphAtlas/issues/1) on 2026-11-23.
+Answered. [Asked the authors](https://github.com/Fr0zenCrane/GlyphAtlas/issues/1) on 2026-11-23.
+
+The authors replied on 2026-11-23 that the Table 1 row is correct and reports the Random model at 64 px. Several results in Table S6 were copied from earlier versions of the model; Table S6 will be fixed in arXiv v2.

@@ -99,9 +99,9 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Multi-turn RL](2026/2611.06483-multiturn-rl/) (arXiv:2611.06483) | LaTeX comments say Figures 2, 3 and 6 are synthetic design previews | [Asked the authors](https://github.com/GaryStack/Rethinking-Agent-RL/issues/1) |
 | [MMDM](2026/2611.14309-mmdm/) (arXiv:2611.14309) | selection.json records an undescribed Jev 1.13.0 confidence filter that removed 1,015 items | [Asked the authors](https://github.com/mmdm-benchmark/mmdm/issues/1) |
 | [DeepMem throughput](2026/2611.05255-deepmem-throughput/) (arXiv:2611.05255) | DeepMem throughput equals the NR value minus 19,000 / 16,000 / 20,000 | [Asked the authors](https://github.com/akhadangi/deepmem/issues/2) |
-| [GlyphAtlas](2026/2611.20192-glyphatlas/) (arXiv:2611.20192) | Table 1 row mixes the Fixed and Random rows of Table S6; two cells match neither | [Asked the authors](https://github.com/Fr0zenCrane/GlyphAtlas/issues/1) |
+| [GlyphAtlas](2026/2611.20192-glyphatlas/) (arXiv:2611.20192) | Table 1 row mixes the Fixed and Random rows of Table S6; two cells match neither | [Answered](https://github.com/Fr0zenCrane/GlyphAtlas/issues/1): Table 1 is the Random model; Table S6 to be fixed in v2 |
 | [EvoMemState Figure 13](2026/2611.03743-evomemstate-fig13/) (arXiv:2611.03743) | Figure 13 bars are identical to Figure 3 under different labels | [Asked the authors](https://github.com/XMUDeepLIT/EvoMemState/issues/2) |
-| [WorldRuler](2026/2611.24869-worldruler/) (arXiv:2611.24869) | Habitat FCR values fit no single task count of at most 300 | [Asked the authors](https://github.com/AlayaLab/WorldRuler/issues/1) |
+| [WorldRuler](2026/2611.24869-worldruler/) (arXiv:2611.24869) | Habitat FCR values fit no single task count of at most 300 | [Answered](https://github.com/AlayaLab/WorldRuler/issues/1): values are means of 0–100 scores over 3 runs × 40 samples |
 
 ## How each audit works
 
