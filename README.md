@@ -123,6 +123,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [CRSI](2026/2611.18856-crsi/) (arXiv:2611.18856) | Table 7: none of the four Opus-After scores is a count over the stated 220 / 225 rollouts | Emailed the authors |
 | [MotionGraphicsBench](2026/2611.10592-motiongraphicsbench/) (arXiv:2611.10592) | Table 10: intermediate three-run means are not multiples of 1/540; "Iterations 5–7" 93.32% vs Final 93.33% | Emailed the authors |
 | [Coding4Games](2026/2611.31974-coding4games/) (arXiv:2611.31974) | Table 4: deepseek-v4.1-flash G0–G4 sum to 90.0%; Table 1 Mode "Live" vs stepped execution | [Asked the authors](https://github.com/GVCLab/Coding4Games/issues/1) |
+| [DominoBench](2026/2611.20385-dominobench/) (arXiv:2611.20385) | Table S4: 11 DominoBench-38 percentages are not k/38 or k/19, all multiples of 10 | Emailed the author |
 
 ## How each audit works
 
