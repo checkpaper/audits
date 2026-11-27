@@ -125,6 +125,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Coding4Games](2026/2611.31974-coding4games/) (arXiv:2611.31974) | Table 4: deepseek-v4.1-flash G0–G4 sum to 90.0%; Table 1 Mode "Live" vs stepped execution | [Asked the authors](https://github.com/GVCLab/Coding4Games/issues/1) |
 | [DominoBench](2026/2611.20385-dominobench/) (arXiv:2611.20385) | Table S4: 11 DominoBench-38 percentages are not k/38 or k/19, all multiples of 10 | Emailed the author |
 | [AdProducer](2026/2611.31466-adproducer/) (arXiv:2611.31466) | Table 1: Veo overall PG-Scores differ from the 122/130/53 weighted mean of the regime scores (27.69 vs 28.0); 1836 vs 1876 | [Asked the authors](https://github.com/lky-ang/AdProducer/issues/2) |
+| [GameDojo](2026/2611.30771-gamedojo/) (arXiv:2611.30771) | "All models win 0" in real time vs non-zero real-time WR and above-Random PG in Table 4 | [Asked the authors](https://github.com/THUSI-Lab/GameDojo/issues/2) |
 
 ## How each audit works
 
