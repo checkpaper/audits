@@ -117,6 +117,8 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [EvoWorld](2026/2611.06748-evoworld/) (arXiv:2611.06748) | Seven Subject Consistency / Reaction values in Tables 1-2 are not k/240 under the stated 120-case three-level protocol | [Asked the authors](https://github.com/Tommy-Bie/EvoWorld/issues/1) |
 | [TurnWise](2026/2611.06728-turnwise/) (arXiv:2611.06728) | Table 1: 11 of 12 StreamingBench Proactive values are k/250; the 3B TurnWise 23.00 is not | [Asked the authors](https://github.com/XD111ds/turn-wise-rl/issues/1) |
 | [LateComer](2026/2611.24576-latecomer/) (arXiv:2611.24576) | Synchronous decoder .853 / .708 in Sec. 2 vs .852 / .684 in Table 14; "2× to 16×" rollback cut includes 1.60× and 1.47× rows | [Asked the authors](https://github.com/Xalp/LateComer/issues/2) |
+| [Plan4D](2026/2611.26516-plan4d/) (arXiv:2611.26516) | Table 8: Ours geometry and camera metrics on RLBench and PointOdyssey agree within 0.0002 on all seven columns | [Asked the authors](https://github.com/AMAP-ML/plan4d/issues/1) |
+| [ReproBridge](2026/2611.08452-reprobridge/) (arXiv:2611.08452) | HELIX example: both refined-artifact MAEs equal their interval centres (the reference means) to five decimals | Emailed the authors |
 
 ## How each audit works
 
