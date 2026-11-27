@@ -28,4 +28,17 @@ The script downloads arXiv 2611.34128v1, checks its hash, quotes the rows above 
 
 ## Status
 
-[Asked the authors](https://github.com/vLAR-group/FoundSurface/issues/1) on 2026-11-27.
+Confirmed by the authors. [Asked the authors](https://github.com/vLAR-group/FoundSurface/issues/1) on 2026-11-27.
+
+## Author response
+
+From an author (Whishing), 2026-11-27 07:43 UTC:
+
+> You are right. There were two copy-and-paste errors when preparing Table 12. The correct standard deviations (ADE / RMSE / Abs-Rel / Sq-Rel / δ) are:
+>
+> - **ScanNet++ (PriorDA):** ±0.121 / ±0.176 / ±0.081 / ±0.105 / ±0.109.
+> - **7Scenes (CUT3R):** ±0.064 / ±0.095 / ±0.034 / ±0.033 / ±0.074.
+>
+> The reported values for Projection on ScanNet++ and RayletDF on 7Scenes are correct. [...] will update the arXiv version of our paper with the corrected Table 12.
+
+With the corrected rows, FoundSurface still has lower standard deviations than every baseline on both datasets.
