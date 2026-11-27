@@ -26,4 +26,4 @@ The script downloads arXiv 2611.12806v1, checks its hash, quotes the passages ab
 
 ## Status
 
-Not yet sent.
+[Asked the authors](https://github.com/Robbyant/lingbot-touch/issues/2) on 2026-11-27.
