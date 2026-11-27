@@ -26,4 +26,4 @@ The script downloads arXiv 2611.21553v1, checks its hash, quotes the passages ab
 
 ## Status
 
-Not yet sent.
+[Asked the authors](https://github.com/SalesforceAIResearch/BLIPLive/issues/2) on 2026-11-27.

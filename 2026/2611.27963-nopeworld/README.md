@@ -25,4 +25,4 @@ The script downloads arXiv 2611.27963v1, checks its hash, quotes the passages ab
 
 ## Status
 
-Not yet sent.
+[Asked the authors](https://github.com/yuhangdai427/NoPeWorld/issues/1) on 2026-11-27.

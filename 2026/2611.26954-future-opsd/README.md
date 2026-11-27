@@ -26,4 +26,4 @@ The script downloads arXiv 2611.26954v1, checks its hash, quotes the passages ab
 
 ## Status
 
-Not yet sent.
+[Asked the authors](https://github.com/Jingchensun/future-opsd/issues/3) on 2026-11-27.

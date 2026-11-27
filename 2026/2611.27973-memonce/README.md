@@ -26,4 +26,4 @@ The script downloads arXiv 2611.27973v1, checks its hash, quotes the passages ab
 
 ## Status
 
-Not yet sent.
+[Asked the authors](https://github.com/Clare-Nie/MemOnce/issues/2) on 2026-11-27.
