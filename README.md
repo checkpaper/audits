@@ -110,6 +110,8 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [FoundSurface](2026/2611.34128-foundsurface/) (arXiv:2611.34128) | Table 12 gives identical standard deviations for Projection and PriorDA (ScanNet++) and for CUT3R and RayletDF (7Scenes) | [Confirmed by the authors](https://github.com/vLAR-group/FoundSurface/issues/1); two copy-paste errors, Table 12 to be corrected on arXiv |
 | [Visual agent distillation](2026/2611.28618-visual-agent-distillation/) (arXiv:2611.28618) | Table S3: run 4 equals run 3 plus exactly +6 / +12 successes for all three selectors | [Asked the authors](https://github.com/elated-sawyer/visual-agent-distillation/issues/1) |
 | [Play2Evolve](2026/2611.33457-play2evolve/) (arXiv:2611.33457) | 15-game Table 8 repeats the 10-game Table 4; 35.7% does not fit 47 tasks; Play2Code Overall 52.46 vs 53.91 from its sub-scores | [Asked the authors](https://github.com/showlab/Play2Evolve/issues/2) |
+| [StepRefine](2026/2611.12901-steprefine/) (arXiv:2611.12901) | Dream-VL MMHalu baseline 3.54 in Table 1 vs 3.47 in Table 5 at the same setting; Fig. 2(c) baseline bars carry the StepRefine values | Not yet sent |
+| [LingBot-Touch](2026/2611.12806-lingbot-touch/) (arXiv:2611.12806) | Abstract "14 to 26" pp vs largest gain 24.8; Table 2 "success over 20 trials" holds partial-credit values and 93.30 / 96.70 | Not yet sent |
 
 ## How each audit works
 
