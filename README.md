@@ -121,6 +121,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [ReproBridge](2026/2611.08452-reprobridge/) (arXiv:2611.08452) | HELIX example: both refined-artifact MAEs equal their interval centres (the reference means) to five decimals | Emailed the authors |
 | [TOME-Math](2026/2610.40394-tome-math/) (arXiv:2610.40394) | Table 8: Panel A Overall (47.9 / 85.9) vs 48.85 / 86.09 from the Panel B population shares | Emailed the authors |
 | [CRSI](2026/2611.18856-crsi/) (arXiv:2611.18856) | Table 7: none of the four Opus-After scores is a count over the stated 220 / 225 rollouts | Emailed the authors |
+| [MotionGraphicsBench](2026/2611.10592-motiongraphicsbench/) (arXiv:2611.10592) | Table 10: intermediate three-run means are not multiples of 1/540; "Iterations 5–7" 93.32% vs Final 93.33% | Emailed the authors |
 
 ## How each audit works
 
