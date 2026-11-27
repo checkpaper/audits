@@ -119,6 +119,8 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [LateComer](2026/2611.24576-latecomer/) (arXiv:2611.24576) | Synchronous decoder .853 / .708 in Sec. 2 vs .852 / .684 in Table 14; "2× to 16×" rollback cut includes 1.60× and 1.47× rows | [Asked the authors](https://github.com/Xalp/LateComer/issues/2) |
 | [Plan4D](2026/2611.26516-plan4d/) (arXiv:2611.26516) | Table 8: Ours geometry and camera metrics on RLBench and PointOdyssey agree within 0.0002 on all seven columns | [Asked the authors](https://github.com/AMAP-ML/plan4d/issues/1) |
 | [ReproBridge](2026/2611.08452-reprobridge/) (arXiv:2611.08452) | HELIX example: both refined-artifact MAEs equal their interval centres (the reference means) to five decimals | Emailed the authors |
+| [TOME-Math](2026/2610.40394-tome-math/) (arXiv:2610.40394) | Table 8: Panel A Overall (47.9 / 85.9) vs 48.85 / 86.09 from the Panel B population shares | Emailed the authors |
+| [CRSI](2026/2611.18856-crsi/) (arXiv:2611.18856) | Table 7: none of the four Opus-After scores is a count over the stated 220 / 225 rollouts | Emailed the authors |
 
 ## How each audit works
 
