@@ -28,3 +28,9 @@ The script downloads arXiv 2611.33457v1, checks its hash, quotes the tables and 
 ## Status
 
 [Asked the authors](https://github.com/showlab/Play2Evolve/issues/2) on 2026-11-27.
+
+## Author response
+
+From a collaborator (maobenz), 2026-11-27 10:26 UTC:
+
+> Hi, thanks for flagging these potential inconsistencies and for sharing the checking tool. We'll carefully verify the reported numbers and evaluation settings, and clarify or correct the paper as needed.
