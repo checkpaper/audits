@@ -37,4 +37,4 @@ The script downloads arXiv 2611.06748v1, checks its hash, quotes the protocol an
 
 ## Status
 
-Not yet sent.
+[Asked the authors](https://github.com/Tommy-Bie/EvoWorld/issues/1) on 2026-11-27.

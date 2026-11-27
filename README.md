@@ -114,8 +114,8 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [LingBot-Touch](2026/2611.12806-lingbot-touch/) (arXiv:2611.12806) | Abstract "14 to 26" pp vs largest gain 24.8; Table 2 "success over 20 trials" holds partial-credit values and 93.30 / 96.70 | [Asked the authors](https://github.com/Robbyant/lingbot-touch/issues/2) |
 | [RoboTryOn](2026/2611.05163-robotryon/) (arXiv:2611.05163) | Table 13: without the autoregressive reference, 10 of 11 tasks drop by exactly 2 of 28 trials | [Asked the authors](https://github.com/ryan-seungyong-lee/RoboTryOn/issues/2) |
 | [SteerDistill](2026/2611.13410-steerdistill/) (arXiv:2611.13410) | Table 1: all 30 Qwen3-8B W4A8 scores and the Qwen3.5-4B BF16 row are multiples of 0.05; other blocks 7 of 130 | [Asked the authors](https://github.com/air-embodied-brain/SteerDistill/issues/2) |
-| [EvoWorld](2026/2611.06748-evoworld/) (arXiv:2611.06748) | Seven Subject Consistency / Reaction values in Tables 1-2 are not k/240 under the stated 120-case three-level protocol | Not yet sent |
-| [TurnWise](2026/2611.06728-turnwise/) (arXiv:2611.06728) | Table 1: 11 of 12 StreamingBench Proactive values are k/250; the 3B TurnWise 23.00 is not | Not yet sent |
+| [EvoWorld](2026/2611.06748-evoworld/) (arXiv:2611.06748) | Seven Subject Consistency / Reaction values in Tables 1-2 are not k/240 under the stated 120-case three-level protocol | [Asked the authors](https://github.com/Tommy-Bie/EvoWorld/issues/1) |
+| [TurnWise](2026/2611.06728-turnwise/) (arXiv:2611.06728) | Table 1: 11 of 12 StreamingBench Proactive values are k/250; the 3B TurnWise 23.00 is not | [Asked the authors](https://github.com/XD111ds/turn-wise-rl/issues/1) |
 
 ## How each audit works
 

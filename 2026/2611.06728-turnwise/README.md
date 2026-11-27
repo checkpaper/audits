@@ -25,4 +25,4 @@ The script downloads arXiv 2611.06728v1, checks its hash, parses Table 1 and tes
 
 ## Status
 
-Not yet sent.
+[Asked the authors](https://github.com/XD111ds/turn-wise-rl/issues/1) on 2026-11-27.
