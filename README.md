@@ -116,7 +116,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [SteerDistill](2026/2611.13410-steerdistill/) (arXiv:2611.13410) | Table 1: all 30 Qwen3-8B W4A8 scores and the Qwen3.5-4B BF16 row are multiples of 0.05; other blocks 7 of 130 | [Asked the authors](https://github.com/air-embodied-brain/SteerDistill/issues/2) |
 | [EvoWorld](2026/2611.06748-evoworld/) (arXiv:2611.06748) | Seven Subject Consistency / Reaction values in Tables 1-2 are not k/240 under the stated 120-case three-level protocol | [Asked the authors](https://github.com/Tommy-Bie/EvoWorld/issues/1) |
 | [TurnWise](2026/2611.06728-turnwise/) (arXiv:2611.06728) | Table 1: 11 of 12 StreamingBench Proactive values are k/250; the 3B TurnWise 23.00 is not | [Asked the authors](https://github.com/XD111ds/turn-wise-rl/issues/1) |
-| [LateComer](2026/2611.24576-latecomer/) (arXiv:2611.24576) | Synchronous decoder .853 / .708 in Sec. 2 vs .852 / .684 in Table 14; "2× to 16×" rollback cut includes 1.60× and 1.47× rows | Not yet sent |
+| [LateComer](2026/2611.24576-latecomer/) (arXiv:2611.24576) | Synchronous decoder .853 / .708 in Sec. 2 vs .852 / .684 in Table 14; "2× to 16×" rollback cut includes 1.60× and 1.47× rows | [Asked the authors](https://github.com/Xalp/LateComer/issues/2) |
 
 ## How each audit works
 
