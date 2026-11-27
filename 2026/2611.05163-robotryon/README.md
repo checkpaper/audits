@@ -33,4 +33,4 @@ The script downloads arXiv 2611.05163v1, checks its hash, quotes Table 13 and co
 
 ## Status
 
-Not yet sent.
+[Asked the authors](https://github.com/ryan-seungyong-lee/RoboTryOn/issues/2) on 2026-11-27.

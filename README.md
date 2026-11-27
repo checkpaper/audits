@@ -112,8 +112,8 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Play2Evolve](2026/2611.33457-play2evolve/) (arXiv:2611.33457) | 15-game Table 8 repeats the 10-game Table 4; 35.7% does not fit 47 tasks; Play2Code Overall 52.46 vs 53.91 from its sub-scores | [Asked the authors](https://github.com/showlab/Play2Evolve/issues/2) |
 | [StepRefine](2026/2611.12901-steprefine/) (arXiv:2611.12901) | Dream-VL MMHalu baseline 3.54 in Table 1 vs 3.47 in Table 5 at the same setting; Fig. 2(c) baseline bars carry the StepRefine values | [Asked the authors](https://github.com/mdlm-steprefine/mdlm-steprefine/issues/1) |
 | [LingBot-Touch](2026/2611.12806-lingbot-touch/) (arXiv:2611.12806) | Abstract "14 to 26" pp vs largest gain 24.8; Table 2 "success over 20 trials" holds partial-credit values and 93.30 / 96.70 | [Asked the authors](https://github.com/Robbyant/lingbot-touch/issues/2) |
-| [RoboTryOn](2026/2611.05163-robotryon/) (arXiv:2611.05163) | Table 13: without the autoregressive reference, 10 of 11 tasks drop by exactly 2 of 28 trials | Not yet sent |
-| [SteerDistill](2026/2611.13410-steerdistill/) (arXiv:2611.13410) | Table 1: all 30 Qwen3-8B W4A8 scores and the Qwen3.5-4B BF16 row are multiples of 0.05; other blocks 7 of 130 | Not yet sent |
+| [RoboTryOn](2026/2611.05163-robotryon/) (arXiv:2611.05163) | Table 13: without the autoregressive reference, 10 of 11 tasks drop by exactly 2 of 28 trials | [Asked the authors](https://github.com/ryan-seungyong-lee/RoboTryOn/issues/2) |
+| [SteerDistill](2026/2611.13410-steerdistill/) (arXiv:2611.13410) | Table 1: all 30 Qwen3-8B W4A8 scores and the Qwen3.5-4B BF16 row are multiples of 0.05; other blocks 7 of 130 | [Asked the authors](https://github.com/air-embodied-brain/SteerDistill/issues/2) |
 
 ## How each audit works
 

@@ -30,4 +30,4 @@ The script downloads arXiv 2611.13410v1, checks its hash, parses Table 1 and cou
 
 ## Status
 
-Not yet sent.
+[Asked the authors](https://github.com/air-embodied-brain/SteerDistill/issues/2) on 2026-11-27.
