@@ -126,7 +126,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [DominoBench](2026/2611.20385-dominobench/) (arXiv:2611.20385) | Table S4: 11 DominoBench-38 percentages are not k/38 or k/19, all multiples of 10 | Emailed the author |
 | [AdProducer](2026/2611.31466-adproducer/) (arXiv:2611.31466) | Table 1: Veo overall PG-Scores differ from the 122/130/53 weighted mean of the regime scores (27.69 vs 28.0); 1836 vs 1876 | [Asked the authors](https://github.com/lky-ang/AdProducer/issues/2) |
 | [GameDojo](2026/2611.30771-gamedojo/) (arXiv:2611.30771) | "All models win 0" in real time vs non-zero real-time WR and above-Random PG in Table 4 | [Asked the authors](https://github.com/THUSI-Lab/GameDojo/issues/2) |
-| [ToolSmith](2026/2611.31198-toolsmith/) (arXiv:2611.31198) | Four accuracies in Tables 2-3 are not a mean of three runs on the Table 8 counts; 8B improves on 7 of 10 OOD benchmarks, not 8 | [Asked the authors](https://github.com/uclanlp/OpenVLHarness/issues/9) |
+| [ToolSmith](2026/2611.31198-toolsmith/) (arXiv:2611.31198) | Four accuracies in Tables 2-3 are not a mean of three runs on the Table 8 counts; 8B improves on 7 of 10 OOD benchmarks, not 8 | [Authors explained](https://github.com/uclanlp/OpenVLHarness/issues/9): early runs dropped API-error items; fix in next version |
 
 ## How each audit works
 

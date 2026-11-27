@@ -37,3 +37,5 @@ The script downloads arXiv 2611.31198v1, checks its hash, quotes the claim, the 
 ## Status
 
 [Asked the authors](https://github.com/uclanlp/OpenVLHarness/issues/9) on 2026-11-28.
+
+The authors replied on 2026-11-28: in early runs, items that hit search-API errors (refusals, timeouts, server down) were dropped from the accuracy. Later runs retried and then scored them as wrong. The tables mix runs from before and after that change, which explains the four cells. They will reword this and fix the 8B sentence in the next version.
