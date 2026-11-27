@@ -25,8 +25,8 @@ The script downloads arXiv 2611.03768v1, checks its hash, finds the quoted passa
 
 ## Status
 
-Contacting the authors, started 2026-11-16. Asked in [the MLI repository](https://github.com/ArjunKrishnak/dsa-multi-layer-indexer/issues/1).
+Answered. Asked on 2026-11-16 in [the MLI repository](https://github.com/ArjunKrishnak/dsa-multi-layer-indexer/issues/1).
 
 ## Author response
 
-None yet.
+The first author replied on 2026-11-25 and closed the issue. The Appendix J gaps come from two dedicated replicate cells (DeepSeek-V3.2 at 128K, GLM-5 at 195K; five runs per arm), not from the Table 1 / Table 9 configuration, and the appendix does not say so. Those cells used the deferred stream for DeepSeek-V3.2 (Table 1 reports the fused kernel, 4 to 6 points faster) and an older SGLang overlay for both models. On Table 1's own configuration, independent cells on different days agree within 0.03 to 0.13 points (GLM-5 1/4: +5.98 vs. +5.88; DeepSeek-V3.2 1/4: +9.57 vs. +9.44), so the noise argument holds.

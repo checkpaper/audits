@@ -33,4 +33,6 @@ The script downloads arXiv 2611.08136v1, checks its hash, quotes Proposition 1 a
 
 ## Status
 
-[Asked the authors](https://github.com/ideal-lab-sejong/PRISM_T/issues/2) on 2026-11-21.
+Answered. [Asked the authors](https://github.com/ideal-lab-sejong/PRISM_T/issues/2) on 2026-11-21.
+
+The authors replied on 2026-11-26 that the gap comes from using reference statistics for scoring and test-set statistics for the decomposition, plus aggregation across seeds. With the reference-centering term included and contributions computed per run, the decomposition holds; the extra term is negligible on average. The term itself is not given in the paper, so 91.50 cannot yet be recomputed from the published tables.
