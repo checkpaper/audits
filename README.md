@@ -102,6 +102,10 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [GlyphAtlas](2026/2611.20192-glyphatlas/) (arXiv:2611.20192) | Table 1 row mixes the Fixed and Random rows of Table S6; two cells match neither | [Answered](https://github.com/Fr0zenCrane/GlyphAtlas/issues/1): Table 1 is the Random model; Table S6 to be fixed in v2 |
 | [EvoMemState Figure 13](2026/2611.03743-evomemstate-fig13/) (arXiv:2611.03743) | Figure 13 bars are identical to Figure 3 under different labels | [Asked the authors](https://github.com/XMUDeepLIT/EvoMemState/issues/2) |
 | [WorldRuler](2026/2611.24869-worldruler/) (arXiv:2611.24869) | Habitat FCR values fit no single task count of at most 300 | [Answered](https://github.com/AlayaLab/WorldRuler/issues/1): values are means of 0–100 scores over 3 runs × 40 samples |
+| [BLIP-Live](2026/2611.21553-blip-live/) (arXiv:2611.21553) | Table A.10 WEB v2 cells sum to 186, printed 188; authors' StreamingBench PO scores fit k/250, leaderboard rows k/51 | Not yet sent |
+| [MemOnce](2026/2611.27973-memonce/) (arXiv:2611.27973) | "Highest and second-highest" vs. Kimi-Linear 0.5250 > r=8 0.5235 in the full table; 600M r=8 Avg 0.5392 vs. 0.5361 | Not yet sent |
+| [NoPeWorld](2026/2611.27963-nopeworld/) (arXiv:2611.27963) | Hy-Nomas better mode alters 49.4% of safe inputs, text says 31.1% | Not yet sent |
+| [Future-OPSD](2026/2611.26954-future-opsd/) (arXiv:2611.26954) | Table 6 Scores 44.3 / 57.3 / 66.9 vs. 46.30 / 58.5 / 67.8 in Tables 1-2; Qwen3.5-9B General Avg 57.2 vs. 57.45 | Not yet sent |
 
 ## How each audit works
 
