@@ -30,4 +30,4 @@ The script downloads arXiv 2611.28618v1, checks its hash, quotes Table S3 and co
 
 ## Status
 
-Not yet sent.
+[Asked the authors](https://github.com/elated-sawyer/visual-agent-distillation/issues/1) on 2026-11-27.

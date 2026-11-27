@@ -27,4 +27,4 @@ The script downloads arXiv 2611.33457v1, checks its hash, quotes the tables and 
 
 ## Status
 
-Not yet sent.
+[Asked the authors](https://github.com/showlab/Play2Evolve/issues/2) on 2026-11-27.
