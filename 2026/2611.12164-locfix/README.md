@@ -27,4 +27,12 @@ The script downloads arXiv 2611.12164v1, checks its hash, quotes the passages ab
 
 ## Status
 
-[Asked the authors](https://github.com/misraj-ai/locfix/issues/1) on 2026-11-27.
+Confirmed by the authors on 2026-11-27; fixes planned for the second version. [Asked the authors](https://github.com/misraj-ai/locfix/issues/1) on 2026-11-27.
+
+## Author response
+
+From an author (khalil-Hennara) on the Hugging Face paper page, 2026-11-27: the "8 vs 6" in the text is the intended result ("it's must be a mistake while we writing the result"), so the Table 4 rows are the ones to correct.
+
+On GitHub, the same day:
+
+> 1,2 we will view the mistake [...] and we will make sure to fix unconsitensy, for 3, we've should report different budget for each exprirment, when we've done more expirment after the first draft, and we forget to report the different config currectly, I will make sure to fix all these issue, within second version.

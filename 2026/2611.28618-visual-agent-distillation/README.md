@@ -31,3 +31,9 @@ The script downloads arXiv 2611.28618v1, checks its hash, quotes Table S3 and co
 ## Status
 
 [Asked the authors](https://github.com/elated-sawyer/visual-agent-distillation/issues/1) on 2026-11-27.
+
+## Author response
+
+From the repository owner (elated-sawyer), 2026-11-27 11:46 UTC:
+
+> The identical increments you identified are worth investigating. We will cross-check the original training and evaluation records to verify the independence of these runs and rule out any potential issues in result aggregation or transcription. [...] will update this issue once the verification is complete.
