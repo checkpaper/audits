@@ -107,7 +107,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [NoPeWorld](2026/2611.27963-nopeworld/) (arXiv:2611.27963) | Hy-Nomas better mode alters 49.4% of safe inputs, text says 31.1% | [Asked the authors](https://github.com/yuhangdai427/NoPeWorld/issues/1) |
 | [Future-OPSD](2026/2611.26954-future-opsd/) (arXiv:2611.26954) | Table 6 Scores 44.3 / 57.3 / 66.9 vs. 46.30 / 58.5 / 67.8 in Tables 1-2; Qwen3.5-9B General Avg 57.2 vs. 57.45 | [Asked the authors](https://github.com/Jingchensun/future-opsd/issues/3) |
 | [locfix](2026/2611.12164-locfix/) (arXiv:2611.12164) | "8 vs. 6" solved vs. 6 / 6 in Table 4 at the stated settings; two rows disagree with their vs.-base counts; median calls vs. out of budget | [Asked the authors](https://github.com/misraj-ai/locfix/issues/1) |
-| [FoundSurface](2026/2611.34128-foundsurface/) (arXiv:2611.34128) | Table 12 gives identical standard deviations for Projection and PriorDA (ScanNet++) and for CUT3R and RayletDF (7Scenes) | Confirmed: [copy-paste errors](https://github.com/vLAR-group/FoundSurface/issues/1), Table 12 to be corrected |
+| [FoundSurface](2026/2611.34128-foundsurface/) (arXiv:2611.34128) | Table 12 gives identical standard deviations for Projection and PriorDA (ScanNet++) and for CUT3R and RayletDF (7Scenes) | [Confirmed by the authors](https://github.com/vLAR-group/FoundSurface/issues/1); two copy-paste errors, Table 12 to be corrected on arXiv |
 
 ## How each audit works
 
