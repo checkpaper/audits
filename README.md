@@ -108,6 +108,8 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Future-OPSD](2026/2611.26954-future-opsd/) (arXiv:2611.26954) | Table 6 Scores 44.3 / 57.3 / 66.9 vs. 46.30 / 58.5 / 67.8 in Tables 1-2; Qwen3.5-9B General Avg 57.2 vs. 57.45 | [Asked the authors](https://github.com/Jingchensun/future-opsd/issues/3) |
 | [locfix](2026/2611.12164-locfix/) (arXiv:2611.12164) | "8 vs. 6" solved vs. 6 / 6 in Table 4 at the stated settings; two rows disagree with their vs.-base counts; median calls vs. out of budget | [Asked the authors](https://github.com/misraj-ai/locfix/issues/1) |
 | [FoundSurface](2026/2611.34128-foundsurface/) (arXiv:2611.34128) | Table 12 gives identical standard deviations for Projection and PriorDA (ScanNet++) and for CUT3R and RayletDF (7Scenes) | [Confirmed by the authors](https://github.com/vLAR-group/FoundSurface/issues/1); two copy-paste errors, Table 12 to be corrected on arXiv |
+| [Visual agent distillation](2026/2611.28618-visual-agent-distillation/) (arXiv:2611.28618) | Table S3: run 4 equals run 3 plus exactly +6 / +12 successes for all three selectors | Not yet sent |
+| [Play2Evolve](2026/2611.33457-play2evolve/) (arXiv:2611.33457) | 15-game Table 8 repeats the 10-game Table 4; 35.7% does not fit 47 tasks; Play2Code Overall 52.46 vs 53.91 from its sub-scores | Not yet sent |
 
 ## How each audit works
 
