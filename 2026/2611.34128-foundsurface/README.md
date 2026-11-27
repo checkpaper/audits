@@ -28,4 +28,4 @@ The script downloads arXiv 2611.34128v1, checks its hash, quotes the rows above 
 
 ## Status
 
-Not yet sent.
+[Asked the authors](https://github.com/vLAR-group/FoundSurface/issues/1) on 2026-11-27.
