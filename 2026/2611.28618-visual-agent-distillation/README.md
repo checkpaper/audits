@@ -30,10 +30,22 @@ The script downloads arXiv 2611.28618v1, checks its hash, quotes Table S3 and co
 
 ## Status
 
-[Asked the authors](https://github.com/elated-sawyer/visual-agent-distillation/issues/1) on 2026-11-27.
+Confirmed by the authors on 2026-11-27: an aggregation error; corrected counts posted and the next revision will fix the tables. [Asked the authors](https://github.com/elated-sawyer/visual-agent-distillation/issues/1) on 2026-11-27.
 
 ## Author response
 
 From the repository owner (elated-sawyer), 2026-11-27 11:46 UTC:
 
 > The identical increments you identified are worth investigating. We will cross-check the original training and evaluation records to verify the independence of these runs and rule out any potential issues in result aggregation or transcription. [...] will update this issue once the verification is complete.
+
+Follow-up from the owner, 2026-11-27 12:10 UTC:
+
+> The identical increments were introduced by an error in our result aggregation: instead of reading each selector's own Run 4 results, we mistakenly applied the complete selector's Run 3→4 increments to the other two selectors.
+>
+> | Selector | Standard | Long horizon |
+> |---|---:|---:|
+> | Complete | 205/240 | 62/240 |
+> | Representativeness only | 194/240 | 51/240 |
+> | Fixed random K4 | 191/240 | 44/240 |
+>
+> We have corrected these entries and recomputed the affected summary statistics. We will include the corrected tables and corresponding text in the next revision.
