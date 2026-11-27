@@ -33,3 +33,5 @@ The script downloads arXiv 2611.26516v1, checks its hash, quotes the two Table 8
 ### Author response (2026-11-28)
 
 An author [replied](https://github.com/AMAP-ML/plan4d/issues/1) that the geometry columns compare the geometry DA3 reconstructs from the generated RGB video with the geometry the model predicts, rather than benchmark ground truth, so RGB–geometry consistency can be similar across benchmarks even when video quality differs; they agreed the manuscript should state this reference more explicitly. We thanked them and asked whether the RLBench geometry evaluation read the RLBench outputs, since the seven values match to four decimals rather than being merely similar.
+
+The authors then confirmed that the RLBench geometry evaluation reads the RLBench-generated outputs, and noted that the seven metrics are not independent (AbsRel, δ1 and δ2 come from the same aligned depth; RPE-R and the two RRA values from the same rotation errors) and that scale-shift and pose alignment reduce cross-dataset variation. We thanked them; we have no further question.
