@@ -130,6 +130,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Distill to Loop](2026/2611.31977-distill-to-loop/) (arXiv:2611.31977) | "Do not degrade" at K = 8/16 vs Table 1, where all four metrics fall from K = 4 to 16 and K = 16 ends below the teacher | [Asked the authors](https://github.com/WinterCCC/Distill-to-Loop/issues/2) |
 | [G-CAST](2026/2611.17814-g-cast/) (arXiv:2611.17814) | Table 4 Ungated: cumulative 0.8926 vs period mean 0.8893; skill-selection 0.6956 is not k / 300 | [Asked on Hugging Face](https://huggingface.co/papers/2611.17814) |
 | [LoopedWAM](2026/2611.25595-loopedwam/) (arXiv:2611.25595) | Table 4 peak memory 2.05 GB vs 2.34 GB for the FP32 policy weights alone in the released code | [Asked the authors](https://github.com/anhdao69/LoopedWAM/issues/3) |
+| [Deletion Tuning](2026/2611.10866-deletion-tuning/) (arXiv:2611.10866) | Greedy evaluation, but 8 Llama GSM8K cells are not k / 1319 and 17 of 18 OlympiadBench cells are not k / 675 | [Asked the authors](https://github.com/agentic-learning-ai-lab/deleting-weights/issues/4) |
 
 ## How each audit works
 
