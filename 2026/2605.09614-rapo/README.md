@@ -27,3 +27,5 @@ The script downloads arXiv 2605.09614v1, checks its hash, quotes Table 10, App. 
 ## Status
 
 [Asked the authors](https://github.com/coder-gx/RAPO/issues/1) on 2026-11-23.
+
+The authors replied on 2026-11-28 and closed the issue: 11.60 is the correct gap, and the Table 12 Base row is kept from the main experiments (temperature 1.0) as a reference, while all DAPO-based methods are evaluated at 0.6. Both points will be clarified in the revision; neither changes the comparison among the RL methods.
