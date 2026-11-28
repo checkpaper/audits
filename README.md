@@ -128,6 +128,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [GameDojo](2026/2611.30771-gamedojo/) (arXiv:2611.30771) | "All models win 0" in real time vs non-zero real-time WR and above-Random PG in Table 4 | [Asked the authors](https://github.com/THUSI-Lab/GameDojo/issues/2) |
 | [ToolSmith](2026/2611.31198-toolsmith/) (arXiv:2611.31198) | Four accuracies in Tables 2-3 are not a mean of three runs on the Table 8 counts; 8B improves on 7 of 10 OOD benchmarks, not 8 | [Authors explained](https://github.com/uclanlp/OpenVLHarness/issues/9): early runs dropped API-error items; fix in next version |
 | [Distill to Loop](2026/2611.31977-distill-to-loop/) (arXiv:2611.31977) | "Do not degrade" at K = 8/16 vs Table 1, where all four metrics fall from K = 4 to 16 and K = 16 ends below the teacher | [Asked the authors](https://github.com/WinterCCC/Distill-to-Loop/issues/2) |
+| [G-CAST](2026/2611.17814-g-cast/) (arXiv:2611.17814) | Table 4 Ungated: cumulative 0.8926 vs period mean 0.8893; skill-selection 0.6956 is not k / 300 | [Asked on Hugging Face](https://huggingface.co/papers/2611.17814) |
 
 ## How each audit works
 
