@@ -27,3 +27,5 @@ The script downloads arXiv 2611.26954v1, checks its hash, quotes the passages ab
 ## Status
 
 [Asked the authors](https://github.com/Jingchensun/future-opsd/issues/3) on 2026-11-27.
+
+The authors replied on 2026-11-28 and closed the issue: the Table 6 SFT and Future-OPSD checkpoints come from separate training runs made to measure GPU memory and utilization, hence the small accuracy differences. The Table 1 average is a transcription error and will be corrected in the next revision.
