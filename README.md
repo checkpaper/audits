@@ -133,6 +133,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [Deletion Tuning](2026/2611.10866-deletion-tuning/) (arXiv:2611.10866) | Greedy evaluation, but 8 Llama GSM8K cells are not k / 1319 and 17 of 18 OlympiadBench cells are not k / 675 | [Asked the authors](https://github.com/agentic-learning-ai-lab/deleting-weights/issues/4) |
 | [EarthRecord](2026/2611.12934-earthrecord/) (arXiv:2611.12934) | Table 11: Opus 5.5 abstains in 35 of 36 insufficient-evidence runs; the released runs have 0 of 1,518 | [Asked the authors](https://github.com/ranranrannervous/EarthRecord/issues/1) |
 | [Collaborative Intelligence](2026/2611.02633-collaborative-intelligence/) (arXiv:2611.02633) | "Every model runs on all 240 tasks", but the released cards exclude provider-refused tasks, e.g. Claude Fable 5.1 scored on 192 | [Asked the authors](https://github.com/zou-group/collaborative-intelligence/issues/2) |
+| [KernelShift](2026/2611.29590-kernelshift/) (arXiv:2611.29590) | "Prefill gain persists across micro-batch sizes" vs Llama 0.989 at micro-batch 64 in Table 19; one configuration with three Llama values | [Asked the authors](https://github.com/cmu-l3/kernel-shift/issues/1) |
 
 ## How each audit works
 
