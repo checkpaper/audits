@@ -26,3 +26,5 @@ The script downloads arXiv 2611.30771v1, checks its hash, quotes both sentences 
 ## Status
 
 [Asked the authors](https://github.com/THUSI-Lab/GameDojo/issues/2) on 2026-11-28.
+
+The authors replied on 2026-11-28 and closed the issue: the 0% win rate refers to the main experiment (Sec. 4.2, Table 3, all 120 bosses at medium difficulty), where all 11 frontier models win 0 in real time under both interfaces.
