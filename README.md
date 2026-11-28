@@ -131,6 +131,7 @@ We check papers people are reading right now: Hugging Face Daily Papers, widely 
 | [G-CAST](2026/2611.17814-g-cast/) (arXiv:2611.17814) | Table 4 Ungated: cumulative 0.8926 vs period mean 0.8893; skill-selection 0.6956 is not k / 300 | [Asked on Hugging Face](https://huggingface.co/papers/2611.17814) |
 | [LoopedWAM](2026/2611.25595-loopedwam/) (arXiv:2611.25595) | Table 4 peak memory 2.05 GB vs 2.34 GB for the FP32 policy weights alone in the released code | [Asked the authors](https://github.com/anhdao69/LoopedWAM/issues/3) |
 | [Deletion Tuning](2026/2611.10866-deletion-tuning/) (arXiv:2611.10866) | Greedy evaluation, but 8 Llama GSM8K cells are not k / 1319 and 17 of 18 OlympiadBench cells are not k / 675 | [Asked the authors](https://github.com/agentic-learning-ai-lab/deleting-weights/issues/4) |
+| [EarthRecord](2026/2611.12934-earthrecord/) (arXiv:2611.12934) | Table 11: Opus 5.5 abstains in 35 of 36 insufficient-evidence runs; the released runs have 0 of 1,518 | [Asked the authors](https://github.com/ranranrannervous/EarthRecord/issues/1) |
 
 ## How each audit works
 
